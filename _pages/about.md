@@ -23,6 +23,10 @@ I am Zhuoxuan Wang, a second-year Ph.D. candidate at Southeast University, super
 
 My research interests include **robot autonomous exploration**, **motion planning**, **RL-based decision making**, and **data-driven system identification**.  Additionally, I am exploring topics related to **semantic recognition**, **map prediction**, and **embodied intelligence**.
 
+# 📖 Educations
+- **2021.09 - Present**: Ph.D. candidate at Southeast University, Nanjing, China. Doctoral Advisor: Shuguo Pan. Master’s Advisor: Lihui Wang. 
+- **2017.09 - 2021.06**: B.E. in Measurement and Control Technology and Instrumentation from Harbin Engineering University. 
+
 # 📰 News
 - **2026.01.04**: &nbsp; Our paper entitled "Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles" has been acceped by *IEEE Transactions on Industrial Elctronics (TIE)* 🎉🎉.
 - **2025.12.01**: &nbsp; I have received an invitation from **Sapienza University of Rome** for a one-year CSC visiting program (*2026.09 - 2027.10*).  
@@ -75,14 +79,17 @@ My research interests include **robot autonomous exploration**, **motion plannin
 
 
 # 🎖 Honors and Awards
-- **2022.11**: &nbsp; National Scholarship. 
-- **2025.10**: &nbsp; Third-Class Scholarship for Doctoral Students of Southeast University.
+- **2025.10**: &nbsp; Third-Class Scholarship for Doctoral Students of Southeast University (￥10,000).
 - **2023.10**: &nbsp; Three-Good Postgraduate Student of Southeast University.
+- **2022.11**: &nbsp; National Scholarship (￥20,000). 
 - **2022.09**: &nbsp; Individual Advanced in Academic Transcript of Southeast University.
-- **2022.09**: &nbsp; First-Class Scholarship for Postgraduate Students of Southeast University.
-- **2021.09**: &nbsp; Second-Class Scholarship for Postgraduate Students of Southeast University.
-- **2018.05-2020.11**: &nbsp; First-Class Scholarship for Undergraduate Students of Harbin Engineering University ×6.
+- **2022.09**: &nbsp; First-Class Scholarship for Postgraduate Students of Southeast University (￥12,000).
+- **2021.09**: &nbsp; Second-Class Scholarship for Postgraduate Students of Southeast University (￥10,000).
+- **2018.05-2020.11**: &nbsp; First-Class Scholarship for Undergraduate Students of Harbin Engineering University ×6 (￥400).
 
-# 📖 Educations
-- **2021.09 - Present**: Ph.D. candidate at Southeast University, Nanjing, China. Doctoral Advisor: Shuguo Pan. Master’s Advisor: Lihui Wang. 
-- **2017.09 - 2021.06**: B.E. in Measurement and Control Technology and Instrumentation from Harbin Engineering University. 
+# 🏃‍ Activities
+- **2025.10**: &nbsp; Attending the *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025* conference at Hangzhou, China.
+- **2024.11**: &nbsp; Attending the *Autonomous Robotic Technology Seminar (ARTS) 2024* conference at Shenzhen, China.
+
+# 🤝 Collaborators
+- [Aohua Liu](https://orcid.org/0000-0002-2526-5879), Ph.D. candidate in the School of Automation, Southeast University, Nanjing, China.
