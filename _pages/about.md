@@ -17,11 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes: *Robot Autonomous Exploration*, *Motion Planning*, *Data-driven System Modeling*, *Inference-based Decision-making*.
 
+# 🙋‍ Who am I
+I am Zhuoxuan Wang, a second-year Ph.D. candidate at Southeast University, supervised by Professor Shuguo Pan.  
 
-# 🔥 News
-- *2025.12.01*: &nbsp; I've passsed 🎉🎉. 
+My research interests include **robot autonomous exploration**, **motion planning**, **RL-based decision making**, and **data-driven system identification**.  Additionally, I am exploring topics related to **semantic recognition**, **map prediction**, and **embodied intelligence**.
+
+# 📰 News
+- **2026.01.04**: &nbsp; Our paper entitled "Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles" has been acceped by *IEEE Transactions on Industrial Elctronics* 🎉🎉.
+- **2025.12.01**: &nbsp; I have received an invitation from **Sapienza University of Rome** for a one-year CSC visiting program *2026.09 - 2027.10*.  
+  My host professor will be **Daniele Nardi**.  
+  My research topic will focus on **semantic exploration and navigation for humanoid robots**.
 
 # 📝 Publications 
 
