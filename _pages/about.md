@@ -24,30 +24,64 @@ I am Zhuoxuan Wang, a second-year Ph.D. candidate at Southeast University, super
 My research interests include **robot autonomous exploration**, **motion planning**, **RL-based decision making**, and **data-driven system identification**.  Additionally, I am exploring topics related to **semantic recognition**, **map prediction**, and **embodied intelligence**.
 
 # 📰 News
-- **2026.01.04**: &nbsp; Our paper entitled "Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles" has been acceped by *IEEE Transactions on Industrial Elctronics* 🎉🎉.
-- **2025.12.01**: &nbsp; I have received an invitation from **Sapienza University of Rome** for a one-year CSC visiting program *2026.09 - 2027.10*.  
-  My host professor will be **Daniele Nardi**.  
+- **2026.01.04**: &nbsp; Our paper entitled "Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles" has been acceped by *IEEE Transactions on Industrial Elctronics (TIE)* 🎉🎉.
+- **2025.12.01**: &nbsp; I have received an invitation from **Sapienza University of Rome** for a one-year CSC visiting program (*2026.09 - 2027.10*).  
+  My host professor will be <a href="https://scholar.google.com/citations?hl=zh-CN&user=xZwripcAAAAJ" target="_blank"><strong>Daniele Nardi</strong></a>.  
   My research topic will focus on **semantic exploration and navigation for humanoid robots**.
+- **2025.10.16**: &nbsp; Our paper entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" has been acceped by *IEEE Robotics and Automation Letters (RAL)* 🎉🎉.
+- **2025.05.06**: &nbsp; I have been awarded the "Postgraduate Research＆Practice Innovation Program of Jiangsu Province" (*2025.05 - 2028.09*).
 
 # 📝 Publications 
+🔹 **<u>Zhuoxuan Wang</u>**, Shuguo Pan\*, Kegen Yu, Wang Gao and Zongliang Chen.  
+&nbsp; &nbsp; &nbsp; Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles.&nbsp; [Paper] [Code]  
+&nbsp; &nbsp; &nbsp; <i>IEEE Transactions on Industrial Elctronics (<strong>Q1, IF=7.2</strong>)</i>, 2026.  
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+---
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+🔹 **<u>Zhuoxuan Wang</u>**, Shuguo Pan\*, Jinle Xu, Xianlu Tao, Wang Gao and Qiang Wang.  
+&nbsp; &nbsp; &nbsp; TIPS: Tiered Information-Rich Planning Strategy for Efficient UGV Autonomous Exploration.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11214391) [[Code]](https://github.com/WangZX-SEU/TIPS)   
+&nbsp; &nbsp; &nbsp; <i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2025.  
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+---
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+🔹 Zongliang Chen, Shuguo Pan*, Kegen Yu, Yuting Wu, Wang Gao, **<u>Zhuoxuan Wang</u>**, Xiaolin Meng.  
+&nbsp; &nbsp; &nbsp; Fusion Control Tracking Strategy for Autonomous Vehicles: A Fast PPO Reinforcement Learning Based on Attention Mechanism and Physical  
+&nbsp; &nbsp; &nbsp; Information.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11173260)  
+&nbsp; &nbsp; &nbsp; <i>IEEE Transactions on Intelligent Transportation Systems (<strong>Q1, IF=8.4</strong>)</i>, 2025.  
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+---
+
+🔹 Yuting Wu, Shuguo Pan*, Zongliang Chen, **<u>Zhuoxuan Wang</u>**, Wang Gao, Xianlu Tao.  
+&nbsp; &nbsp; &nbsp; A Fast PPO Reinforcement Learning Based on Attention Mechanism and Physical Information.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11184172/)  
+&nbsp; &nbsp; &nbsp; <i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2025.  
+
+---
+
+🔹 Lihui Wang*, **<u>Zhuoxuan Wang</u>**, Zehua Ying, Xiao Bai, Ninghui Xu.  
+&nbsp; &nbsp; &nbsp; A Path Planning Framework Based on an Improved Weighted Heuristic RRT and Optimization Strategy.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/10266793)  
+&nbsp; &nbsp; &nbsp; <i>IEEE Transactions on Intelligent Vehicles (<strong>Q1, IF=14.3</strong>)</i>, 2023.  
+
+---
+
+🔹 Lihui Wang*, **<u>Zhuoxuan Wang</u>**, Mingjie Liu, Zehua Ying, Ninghui Xu, Qian Meng.  
+&nbsp; &nbsp; &nbsp; Full Coverage Path Planning Methods of Harvesting Robot with Multi-Objective Constraints.&nbsp; [[Paper]](https://link.springer.com/article/10.1007/s10846-022-01722-0)    
+&nbsp; &nbsp; &nbsp; <i>Journal of Intelligent & Robotic Systems (<strong>Q3, IF=2.8</strong>)</i>, 2022.  
+
+---
+
+🔹 Nan Qiao, Lihui Wang*, Mingjie Liu, **<u>Zhuoxuan Wang</u>**.  
+&nbsp; &nbsp; &nbsp; The sliding mode controller with improved reaching law for harvesting robots.&nbsp; [[Paper]](https://link.springer.com/article/10.1007/s10846-021-01536-6)     
+&nbsp; &nbsp; &nbsp; <i>Journal of Intelligent & Robotic Systems (<strong>Q3, IF=2.8</strong>)</i>, 2022.  
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2022.11**: &nbsp; National Scholarship. 
+- **2025.10**: &nbsp; Third-Class Scholarship for Doctoral Students of Southeast University.
+- **2023.10**: &nbsp; Three-Good Postgraduate Student of Southeast University.
+- **2022.09**: &nbsp; Individual Advanced in Academic Transcript of Southeast University.
+- **2022.09**: &nbsp; First-Class Scholarship for Postgraduate Students of Southeast University.
+- **2021.09**: &nbsp; Second-Class Scholarship for Postgraduate Students of Southeast University.
+- **2018.05-2020.11**: &nbsp; First-Class Scholarship for Undergraduate Students of Harbin Engineering University ×6.
 
 # 📖 Educations
 - **2021.09 - Present**: Ph.D. candidate at Southeast University, Nanjing, China. Doctoral Advisor: Shuguo Pan. Master’s Advisor: Lihui Wang. 
