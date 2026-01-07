@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhuoxuan Wang"
-description              : "Personal Page"
+description              : "A Second-year Doctoral Candidate at Southeast University"
 repository               : "https://wangzx.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhuoxuan Wang"
   avatar           : "images/wangzx.jpg"
-  bio              : "A Second-year Doctoral Candidate at Southeast University"
+  bio              : "I can do all things - Stephen Curry"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
