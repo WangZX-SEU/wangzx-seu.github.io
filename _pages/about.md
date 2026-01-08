@@ -35,9 +35,6 @@ My research interests include **robot autonomous exploration**, **motion plannin
 - **2025.05.06**: &nbsp; I have been awarded the "Postgraduate Research＆Practice Innovation Program of Jiangsu Province" (*2025.05 - 2028.09*).
 
 <h1>📝 Publications
-<a href="https://scholar.google.com/citations?user=G8sNV64AAAAJ">
-  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>
 </h1>
 🔹 **<u>Zhuoxuan Wang</u>**, Shuguo Pan\*, Kegen Yu, Wang Gao and Zongliang Chen.  
 &nbsp; &nbsp; &nbsp; Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles.&nbsp; [Paper] [Code]  
