@@ -19,9 +19,9 @@ redirect_from:
 
 
 # 🙋‍ Who am I
-I am Zhuoxuan Wang, a second-year Ph.D. candidate at Southeast University, supervised by Professor Shuguo Pan.   <a href="https://scholar.google.com/citations?hl=zh-CN&user=G8sNV64AAAAJ">
-      <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-  </a>
+I am Zhuoxuan Wang, a second-year Ph.D. candidate at Southeast University, supervised by Professor Shuguo Pan.   <a href="https://scholar.google.com/citations?user=uzRvavcAAAAJ">
+  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</a>
 
 My research interests include **robot autonomous exploration**, **motion planning**, **RL-based decision making**, and **data-driven system identification**.  Additionally, I am exploring topics related to **semantic recognition**, **map prediction**, and **embodied intelligence**.
 
