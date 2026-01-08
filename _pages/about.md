@@ -35,7 +35,12 @@ My research interests include **robot autonomous exploration**, **motion plannin
 - **2025.10.16**: &nbsp; Our paper entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" has been acceped by *IEEE Robotics and Automation Letters (RAL)* 🎉🎉.
 - **2025.05.06**: &nbsp; I have been awarded the "Postgraduate Research＆Practice Innovation Program of Jiangsu Province" (*2025.05 - 2028.09*).
 
-# 📝 Publications 
+<h1>📝 Publications
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=G8sNV64AAAAJ">
+      <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+  </a>
+
+</h1>
 🔹 **<u>Zhuoxuan Wang</u>**, Shuguo Pan\*, Kegen Yu, Wang Gao and Zongliang Chen.  
 &nbsp; &nbsp; &nbsp; Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles.&nbsp; [Paper] [Code]  
 &nbsp; &nbsp; &nbsp; <i>IEEE Transactions on Industrial Elctronics (<strong>Q1, IF=7.2</strong>)</i>, 2026.  
