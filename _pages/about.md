@@ -88,7 +88,7 @@ My research interests include **robot autonomous exploration**, **motion plannin
 
 # 🎖 Honors and Awards
 - **2025.10**: &nbsp; Third-Class Scholarship for Doctoral Students of Southeast University (￥10,000).
-- **2023.10**: &nbsp; Three-Good Postgraduate Student of Southeast University.
+- **2023.10**: &nbsp; Outstanding Student of Southeast University.
 - **2022.11**: &nbsp; National Scholarship (￥20,000). 
 - **2022.09**: &nbsp; Individual Advanced in Academic Transcript of Southeast University.
 - **2022.09**: &nbsp; First-Class Scholarship for Postgraduate Students of Southeast University (￥12,000).
