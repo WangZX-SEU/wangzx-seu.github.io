@@ -27,14 +27,14 @@ My research interests include **robot autonomous exploration**, **motion plannin
 - **2017.09 - 2021.06**: B.E. in Measurement and Control Technology and Instrumentation from Harbin Engineering University. 
 
 # 📰 News
-- **2026.02.01**: &nbsp; Our paper entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" published on *IEEE Robotics and Automation Letters (RAL)* has been transferred to and accpeted by *IEEE International Conference on Robotics and Automation (ICRA) 2026* 🎉🎉.
-- **2026.01.19**: &nbsp; Our paper entitled "Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform" has been acceped by *Chinese Journal of Scientific Instrument* 🎉🎉.
-- **2026.01.04**: &nbsp; Our paper entitled "Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles" has been acceped by *IEEE Transactions on Industrial Elctronics (TIE)* 🎉🎉.
-- **2025.12.01**: &nbsp; I have received an invitation from **Sapienza University of Rome** for a one-year CSC visiting program (*2026.09 - 2027.10*).  
+- **2026.02.01**: Our paper entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" published on *IEEE Robotics and Automation Letters (RAL)* has been transferred to and accpeted by *IEEE International Conference on Robotics and Automation (ICRA) 2026, Vienna*. 🎉🎉.
+- **2026.01.19**: Our paper entitled "Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform" has been acceped by *Chinese Journal of Scientific Instrument* 🎉🎉.
+- **2026.01.04**: Our paper entitled "Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles" has been acceped by *IEEE Transactions on Industrial Elctronics (TIE)* 🎉🎉.
+- **2025.12.01**: I have received an invitation from **Sapienza University of Rome** for a one-year CSC visiting program (*2026.09 - 2027.10*).  
   My host professor will be <a href="https://scholar.google.com/citations?hl=zh-CN&user=xZwripcAAAAJ" target="_blank"><strong>Daniele Nardi</strong></a>.  
   My research topic will focus on **semantic exploration and navigation for humanoid robots**.
-- **2025.10.16**: &nbsp; Our paper entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" has been acceped by *IEEE Robotics and Automation Letters (RAL)* 🎉🎉.
-- **2025.05.06**: &nbsp; I have been awarded the "Postgraduate Research＆Practice Innovation Program of Jiangsu Province" (*2025.05 - 2028.09*).
+- **2025.10.16**: Our paper entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" has been acceped by *IEEE Robotics and Automation Letters (RAL)* 🎉🎉.
+- **2025.05.06**: I have been awarded the "Postgraduate Research＆Practice Innovation Program of Jiangsu Province" (*2025.05 - 2028.09*).
 
 <h1>📝 Publications
 </h1>
