@@ -46,7 +46,7 @@ My research interests include **robot autonomous exploration**, **motion plannin
 ---
 
 🔹 **<u>Zhuoxuan Wang</u>**, Shuguo Pan\*, Kegen Yu, Wang Gao and Zongliang Chen.  
-&nbsp; &nbsp; &nbsp; Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles.&nbsp; [Paper] [Code]  
+&nbsp; &nbsp; &nbsp; Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11373019) [[Code]](https://github.com/WangZX-SEU/SST-Rev-DKN)  
 &nbsp; &nbsp; &nbsp; <i>IEEE Transactions on Industrial Elctronics (<strong>Q1, IF=7.2</strong>)</i>, 2026.  
 
 ---
