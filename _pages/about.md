@@ -19,14 +19,15 @@ redirect_from:
 
 
 # 🙋‍ Who am I
-I am Zhuoxuan Wang, a second-year Ph.D. candidate at Southeast University, supervised by Professor Shuguo Pan.  
-My research interests include **robot autonomous exploration**, **motion planning**, **RL-based decision making**, and **data-driven system identification**. Additionally, I am exploring topics related to **semantic recognition**, **map prediction**, and **embodied intelligence**.
+I am Zhuoxuan Wang, a third-year Ph.D. candidate at Southeast University, supervised by Professor Shuguo Pan.  
+My research interests include **robot autonomous exploration**, **motion planning**, **RL-based decision making**, and **data-driven system identification**. Additionally, I am exploring topics related to **semantic recognition**, **VLM**, and **embodied intelligence**.
 
 # 📖 Educations
 - **2021.09 - Present**: Ph.D. candidate in an **Integrated Master–Ph.D. Program** at Southeast University, Nanjing, China. Doctoral Advisor: Shuguo Pan. Master’s Advisor: Lihui Wang. 
 - **2017.09 - 2021.06**: B.E. in Measurement and Control Technology and Instrumentation from Harbin Engineering University. 
 
 # 📰 News
+- **2026.02.06**: Our latest work "PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments" has been submmited to *IEEE Robotics and Automation Letters (RAL)*.
 - **2026.02.01**: Our paper entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" published on *IEEE Robotics and Automation Letters (RAL)* has been transferred to and accpeted by *IEEE International Conference on Robotics and Automation (ICRA) 2026, Vienna*. 🎉🎉.
 - **2026.01.19**: Our paper entitled "Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform" has been acceped by *Chinese Journal of Scientific Instrument* 🎉🎉.
 - **2026.01.04**: Our paper entitled "Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles" has been acceped by *IEEE Transactions on Industrial Elctronics (TIE)* 🎉🎉.
@@ -38,6 +39,12 @@ My research interests include **robot autonomous exploration**, **motion plannin
 
 <h1>📝 Publications
 </h1>
+
+🔹  Yuxiang Gao†, **<u>Zhuoxuan Wang</u>†**, Xianlu Tao\*, Jinle Xu, Shuguo Pan. (**† Equal Contribution**)  
+&nbsp; &nbsp; &nbsp; PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review)  
+&nbsp; &nbsp; &nbsp; <i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2026. 
+
+---
 
 🔹  Xianlu Tao\*, Jiaxuan Liu, **<u>Zhuoxuan Wang</u>**, Shuguo Pan, Jinle Xu.  
 &nbsp; &nbsp; &nbsp; Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform.&nbsp; [Paper]  
