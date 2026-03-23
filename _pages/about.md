@@ -27,10 +27,9 @@ My research interests include **robot autonomous exploration**, **motion plannin
 - **2017.09 - 2021.06**: B.E. in Measurement and Control Technology and Instrumentation from Harbin Engineering University. 
 
 # 📰 News
+- **2026.03.23**: The work co-authored with my collaborator **Aohua Liu** entitled "Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation" has been accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)* 🎉🎉.
 - **2026.02.06**: Our latest work "PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments" has been submmited to *IEEE Robotics and Automation Letters (RAL)*.
-- **2026.02.03**: Our latest work "Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation" has been submmited to *IEEE/ASME Transactions on Mechatronics
-  (T-MECH)*.
-- **2026.02.01**: Our paper entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" published on *IEEE Robotics and Automation Letters (RAL)* has been transferred to and accpeted by *IEEE International Conference on Robotics and Automation (ICRA) 2026, Vienna*. 🎉🎉.
+- **2026.02.01**: Our paper entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" published on *IEEE Robotics and Automation Letters (RAL)* has been transferred to and accpeted by *IEEE International Conference on Robotics and Automation (ICRA) 2026, Vienna* 🎉🎉.
 - **2026.01.19**: Our paper entitled "Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform" has been acceped by *Chinese Journal of Scientific Instrument* 🎉🎉.
 - **2026.01.04**: Our paper entitled "Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles" has been acceped by *IEEE Transactions on Industrial Electronics (TIE)* 🎉🎉.
 - **2025.12.01**: I have received an invitation from **Sapienza University of Rome** for a one-year CSC visiting program (*2026.09 - 2027.10*).  
@@ -42,15 +41,16 @@ My research interests include **robot autonomous exploration**, **motion plannin
 <h1>📝 Publications
 </h1>
 
-🔹  Yuxiang Gao†, **<u>Zhuoxuan Wang</u>†**, Xianlu Tao\*, Jinle Xu, Shuguo Pan. (**† Equal Contribution**)  
-&nbsp; &nbsp; &nbsp; PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review, R1)  
-&nbsp; &nbsp; &nbsp; <i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2026. 
+
+🔹  Aohua Liu, Kun Qian\*, Zhaokun Yue, **<u>Zhuoxuan Wang</u>**, Boyi Duan, Shan Luo.    
+&nbsp; &nbsp; &nbsp; Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation.&nbsp; [Paper]  
+&nbsp; &nbsp; &nbsp; <i>IEEE/ASME Transactions on Mechatronics (<strong>Q1, IF=7.3</strong>)</i>, 2026. 
 
 ---
 
-🔹  Aohua Liu, Kun Qian\*, Zhaokun Yue, **<u>Zhuoxuan Wang</u>**, Boyi Duan, Shan Luo.    
-&nbsp; &nbsp; &nbsp; Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation. (Under Review, R2)  
-&nbsp; &nbsp; &nbsp; <i>IEEE/ASME Transactions on Mechatronics (<strong>Q1, IF=7.3</strong>)</i>, 2026. 
+🔹  Yuxiang Gao†, **<u>Zhuoxuan Wang</u>†**, Xianlu Tao\*, Jinle Xu, Shuguo Pan. (**† Equal Contribution**)  
+&nbsp; &nbsp; &nbsp; PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review, R1)  
+&nbsp; &nbsp; &nbsp; <i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2026. 
 
 ---
 
