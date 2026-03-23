@@ -32,7 +32,7 @@ My research interests include **robot autonomous exploration**, **motion plannin
   (T-MECH)*.
 - **2026.02.01**: Our paper entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" published on *IEEE Robotics and Automation Letters (RAL)* has been transferred to and accpeted by *IEEE International Conference on Robotics and Automation (ICRA) 2026, Vienna*. 🎉🎉.
 - **2026.01.19**: Our paper entitled "Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform" has been acceped by *Chinese Journal of Scientific Instrument* 🎉🎉.
-- **2026.01.04**: Our paper entitled "Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles" has been acceped by *IEEE Transactions on Industrial Elctronics (TIE)* 🎉🎉.
+- **2026.01.04**: Our paper entitled "Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles" has been acceped by *IEEE Transactions on Industrial Electronics (TIE)* 🎉🎉.
 - **2025.12.01**: I have received an invitation from **Sapienza University of Rome** for a one-year CSC visiting program (*2026.09 - 2027.10*).  
   My host professor will be <a href="https://scholar.google.com/citations?hl=zh-CN&user=xZwripcAAAAJ" target="_blank"><strong>Daniele Nardi</strong></a>.  
   My research topic will focus on **semantic exploration and navigation for humanoid robots**.
@@ -62,7 +62,7 @@ My research interests include **robot autonomous exploration**, **motion plannin
 
 🔹 **<u>Zhuoxuan Wang</u>**, Shuguo Pan\*, Kegen Yu, Wang Gao and Zongliang Chen.  
 &nbsp; &nbsp; &nbsp; Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11373019) [[Code]](https://github.com/WangZX-SEU/SST-Rev-DKN)  
-&nbsp; &nbsp; &nbsp; <i>IEEE Transactions on Industrial Elctronics (<strong>Q1, IF=7.2</strong>)</i>, 2026.  
+&nbsp; &nbsp; &nbsp; <i>IEEE Transactions on Industrial Electronics (<strong>Q1, IF=7.2</strong>)</i>, 2026.  
 
 ---
 
