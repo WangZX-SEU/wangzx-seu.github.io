@@ -10,13 +10,13 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Interesting Tools Developed with AI Agent"
-    url: "/#-interesting-tools-developed-with-ai-agent"
+    url: "/interesting-tools-developed-with-ai-agent"
 
   - title: "Activities"
     url: "/#-activities"
