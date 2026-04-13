@@ -20,7 +20,10 @@ redirect_from:
 
 # 🙋‍ Who am I
 I am Zhuoxuan Wang, a third-year Ph.D. candidate at Southeast University, supervised by Professor Shuguo Pan.  
-My research interests include **robot autonomous exploration**, **motion planning**, **RL-based decision making**, and **data-driven system identification**. Additionally, I am exploring topics related to **semantic recognition**, **VLM**, and **embodied intelligence**.
+
+My research interests include **robot autonomous exploration**, **motion planning**, **RL-based decision making**, and **data-driven system identification**. Additionally, I am exploring topics related to **semantic recognition**, **VLM**, and **embodied intelligence**.  
+
+I am also exploring ways to work with **AI agents**, which is very interesting😊. Follow the current, keep up with the times! 
 
 # 📖 Educations
 - **2021.09 - Present**: Ph.D. candidate in an **Integrated Master–Ph.D. Program** at Southeast University, Nanjing, China. Doctoral Advisor: Shuguo Pan. Master’s Advisor: Lihui Wang. 
@@ -111,7 +114,11 @@ My research interests include **robot autonomous exploration**, **motion plannin
 - **2021.09**: &nbsp; Second-Class Scholarship for Postgraduate Students of Southeast University (￥10,000).
 - **2018.05-2020.11**: &nbsp; First-Class Scholarship for Undergraduate Students of Harbin Engineering University ×6 (￥400).
 
+# 🔧 Interesting Tools Developed with AI Agents
+
+
 # 🏃‍ Activities
+- **2026.06**：&nbsp; Attending the *IEEE International Conference on Robotics and Automation (ICRA) 2026* conference at Vienna, Austria.
 - **2025.10**: &nbsp; Attending the *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025* conference at Hangzhou, China.
 - **2024.11**: &nbsp; Attending the *Autonomous Robotic Technology Seminar (ARTS) 2024* conference at Shenzhen, China.
 
