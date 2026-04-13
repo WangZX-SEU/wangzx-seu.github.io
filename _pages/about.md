@@ -23,7 +23,7 @@ I am Zhuoxuan Wang, a third-year Ph.D. candidate at Southeast University, superv
 
 My research interests include **robot autonomous exploration**, **motion planning**, **RL-based decision making**, and **data-driven system identification**. Additionally, I am exploring topics related to **semantic recognition**, **VLM**, and **embodied intelligence**.  
 
-I am also exploring ways to work with **AI agents**, which is very interesting😊. Follow the current, keep up with the times! 
+I am also exploring the ways to work with **AI agents**, which is very interesting😊. Embracing the trends, seizing the momentum! 
 
 # 📖 Educations
 - **2021.09 - Present**: Ph.D. candidate in an **Integrated Master–Ph.D. Program** at Southeast University, Nanjing, China. Doctoral Advisor: Shuguo Pan. Master’s Advisor: Lihui Wang. 
@@ -115,10 +115,15 @@ I am also exploring ways to work with **AI agents**, which is very interesting�
 - **2018.05-2020.11**: &nbsp; First-Class Scholarship for Undergraduate Students of Harbin Engineering University ×6 (￥400).
 
 # 🔧 Interesting Tools Developed with AI Agents
-
+I have mainly used **Claude Code** and **Cursor**, and currently have developed two projects with the help of AI agents:  
+- **OpenClaw Virtual Machine Isolation Installation Guide** [[Project page]](https://github.com/WangZX-SEU/openclaw-guide)  
+A detailed OpenClaw virtual machine isolation installation guide designed specifically for running OpenClaw through VirtualBox on Ubuntu 24.04 hosts. It includes detailed steps, precautions, and is very suitable for users who want to use OpenClaw on Ubuntu but are concerned about contaminating local files.  
+_(Based on this guidance, I have configured two 🦐 workers on my **Feishu** app for paper summary and daily AI news organization.)_ 😀.
+- **ArXiv Paper Crawler** [[Project page]](https://github.com/WangZX-SEU/wangzx-seu.github.io)  
+Forked from <a href="https://github.com/RayeRen/acad-homepage.github.io" target="_blank">RayeRen's project</a>, added daily automated crawling, daily report generation, and the function of summarizing papers by specific authors.  
 
 # 🏃‍ Activities
-- **2026.06**：&nbsp; Attending the *IEEE International Conference on Robotics and Automation (ICRA) 2026* conference at Vienna, Austria.
+- **2026.06**: &nbsp; Attending the *IEEE International Conference on Robotics and Automation (ICRA) 2026* conference at Vienna, Austria.
 - **2025.10**: &nbsp; Attending the *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025* conference at Hangzhou, China.
 - **2024.11**: &nbsp; Attending the *Autonomous Robotic Technology Seminar (ARTS) 2024* conference at Shenzhen, China.
 
