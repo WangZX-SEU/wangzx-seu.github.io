@@ -50,7 +50,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
     text-align: left !important;
   }
   .p-title {
-    font-size: 1.5rem !important; /* 约 24px */
+    font-size: 1.25rem !important; /* 约 24px */
     font-weight: bold !important;
     line-height: 1.2 !important;
     display: block !important;
