@@ -35,11 +35,11 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 - **2026.02.01**: Our paper entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" published on *IEEE Robotics and Automation Letters (RAL)* has been transferred to and accpeted by *IEEE International Conference on Robotics and Automation (ICRA) 2026, Vienna* 🎉🎉.
 - **2026.01.19**: Our paper entitled "Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform" has been acceped by *Chinese Journal of Scientific Instrument* 🎉🎉.
 - **2026.01.04**: Our paper entitled "Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles" has been acceped by *IEEE Transactions on Industrial Electronics (TIE)* 🎉🎉.
-- **2025.12.01**: I have received an invitation from **Sapienza University of Rome** for a one-year CSC visiting program (*2026.09 - 2027.10*).  
+- **2025.12.01**: I have received an invitation from **Sapienza University of Rome** for a one-year CSC visiting program (*2026.09 — 2027.10*).  
   My host professor will be <a href="https://scholar.google.com/citations?hl=zh-CN&user=xZwripcAAAAJ" target="_blank"><strong>Daniele Nardi</strong></a>.  
   My research topic will focus on **semantic exploration and navigation for humanoid robots**.
 - **2025.10.16**: Our paper entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" has been acceped by *IEEE Robotics and Automation Letters (RAL)* 🎉🎉.
-- **2025.05.06**: I have been awarded the "Postgraduate Research＆Practice Innovation Program of Jiangsu Province" (*2025.05 - 2028.09*).
+- **2025.05.06**: I have been awarded the "Postgraduate Research＆Practice Innovation Program of Jiangsu Province" (*2025.05 — 2028.09*).
 
 # 📝 Publications
 
@@ -76,7 +76,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
   }
 </style>
 
-## Ph.D Stage (2024.02-Present)
+## Ph.D Stage (2024.02 — Present)
 <br>
 <img align="left" width="360" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
@@ -154,7 +154,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 <div style="clear:both;"></div>
 
 <br>
-## Master Stage (2021.09-2024.02)
+## Master Stage (2021.09 — 2024.02)
 <br>
 <img align="left" width="360" src="/images/2024-TIV.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
@@ -196,7 +196,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 - **2022.09**: &nbsp; Individual Advanced in Academic Transcript of Southeast University.
 - **2022.09**: &nbsp; First-Class Scholarship for Postgraduate Students of Southeast University (￥12,000).
 - **2021.09**: &nbsp; Second-Class Scholarship for Postgraduate Students of Southeast University (￥10,000).
-- **2018.05-2020.11**: &nbsp; First-Class Scholarship for Undergraduate Students of Harbin Engineering University ×6 (￥400).
+- **2018.05 — 2020.11**: &nbsp; First-Class Scholarship for Undergraduate Students of Harbin Engineering University ×6 (￥400).
 
 # 🔧 Interesting Tools Developed with AI Agents
 I have mainly used **Claude Code** and **Cursor**, and currently have developed two projects with the help of AI agents:  
