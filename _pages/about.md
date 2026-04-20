@@ -71,29 +71,29 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
   }
 </style>
 
-<img align="left" width="500" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<img align="left" width="420" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title">Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation</span>
   <span class="p-author">Aohua Liu, Kun Qian*, Zhaokun Yue, <strong><u>Zhuoxuan Wang</u></strong>, Boyi Duan, Shan Luo.</span>
-  <span class="p-journal"><i>IEEE/ASME Transactions on Mechatronics (Q1, IF=7.3)</i>i>, 2026. <a href="https://ieeexplore.ieee.org/document/11482717">[Paper]</a></span>
+  <span class="p-journal"><i>IEEE/ASME Transactions on Mechatronics (<strong>Q1, IF=7.3</strong>)</i>, 2026. <a href="https://ieeexplore.ieee.org/document/11482717">[Paper]</a></span>
 </div>
 <div style="clear:both;"></div>
 
 ---
 
-<img align="left" width="500" src="/images/2026-RAL.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<img align="left" width="420" src="/images/2026-RAL.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title">PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review, R1)</span>
   <span class="p-author">Yuxiang Gao†, <strong><u>Zhuoxuan Wang</u></strong>†, Xianlu Tao\*, Jinle Xu, Shuguo Pan. (**† Equal Contribution**).</span>
-  <span class="p-journal"><i>IEEE Robotics and Automation Letters (Q1, IF=5.3),</i>i> 2026. [Paper]</a></span>
+  <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>),</i> 2026. [Paper]</a></span>
 </div>
 <div style="clear:both;"></div>
 
 ---
 
-<img align="left" width="500" src="/images/2026-YQYB.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<img align="left" width="420" src="/images/2026-YQYB.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title"> Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform.</span>
@@ -104,18 +104,14 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ---
 
-<img align="left" width="500" src="/images/2026-YQYB.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<img align="left" width="420" src="/images/2026-TIE.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
-  <span class="p-title">PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review, R1)</span>
+  <span class="p-title">Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles</span>
   <span class="p-author"> <strong><u>Zhuoxuan Wang</u></strong>, Shuguo Pan\*, Kegen Yu, Wang Gao and Zongliang Chen.</span>
-  <span class="p-journal"><i>Chinese Journal of Scientific Instrument (<strong>EI</strong>)</i>, 2026. <a href="[https://ieeexplore.ieee.org/document/11482717](https://kns.cnki.net/kcms2/article/abstract?v=A2Z-m-A1gclQAKwazEiLRF2GXCvVztBoxaWAU1l-OFyJGEsUdUqjmLhzSVjC7GWX2-CPvX5INAebGU8p7W8lskZ1X5j8d4fPvxWyGyt84LOOKInsiXwB-gyxWLmZLtTtX6W7h23iuZE7hGJNKPLxErNBzp4bGoqK&uniplatform=NZKPT)">[Paper]</a></span>
+  <span class="p-journal"><i>IEEE Transactions on Industrial Electronics (<strong>Q1, IF=7.2</strong>)</i>, 2026. <a href="https://ieeexplore.ieee.org/document/11373019">[Paper]</a> <a href="https://github.com/WangZX-SEU/SST-Rev-DKN">[Code]</a></span>
 </div>
 <div style="clear:both;"></div>
-
-🔹  **<u>Zhuoxuan Wang</u>**, Shuguo Pan\*, Kegen Yu, Wang Gao and Zongliang Chen.  
-&nbsp; &nbsp; &nbsp; Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11373019) [[Code]](https://github.com/WangZX-SEU/SST-Rev-DKN)    
-&nbsp; &nbsp; &nbsp; <i>IEEE Transactions on Industrial Electronics (<strong>Q1, IF=7.2</strong>)</i>, 2026.  
 
 ---
 
