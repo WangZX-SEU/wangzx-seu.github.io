@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 🙋‍ Who am I
-I am Zhuoxuan Wang, a third-year Ph.D. candidate at Southeast University, supervised by Professor Shuguo Pan.  
+I am Zhuoxuan Wang, a third-year Ph.D. candidate at Southeast University, Nanjing, China, supervised by Professor Shuguo Pan.  
 
 My research interests include **robot autonomous exploration**, **motion planning**, **RL-based decision making**, and **data-driven system identification**. Additionally, I am exploring topics related to **semantic recognition**, **VLM**, and **embodied intelligence**.  
 
