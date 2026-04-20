@@ -71,12 +71,14 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
   }
 </style>
 
+## Ph.D Stage (2024.02-Present)
+
 <img align="left" width="420" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title">Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation</span>
-  <span class="p-author">Aohua Liu, Kun Qian*, Zhaokun Yue, <strong><u>Zhuoxuan Wang</u></strong>, Boyi Duan, Shan Luo.</span>
-  <span class="p-journal"><i>IEEE/ASME Transactions on Mechatronics (<strong>Q1, IF=7.3</strong>)</i>, 2026. <a href="https://ieeexplore.ieee.org/document/11482717">[Paper]</a></span>
+  <span class="p-author">Aohua Liu, Kun Qian\*, Zhaokun Yue, <strong><u>Zhuoxuan Wang</u></strong>, Boyi Duan, Shan Luo.</span>
+  <span class="p-journal"><i>IEEE/ASME Transactions on Mechatronics (<strong>Q1, IF=7.3</strong>)</i>, 2026. <br><a href="https://ieeexplore.ieee.org/document/11482717">[Paper]</a></span>
 </div>
 <div style="clear:both;"></div>
 
@@ -87,7 +89,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 <div class="pub-block">
   <span class="p-title">PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review, R1)</span>
   <span class="p-author">Yuxiang Gao†, <strong><u>Zhuoxuan Wang</u></strong>†, Xianlu Tao\*, Jinle Xu, Shuguo Pan. (**† Equal Contribution**).</span>
-  <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>),</i> 2026. [Paper]</a></span>
+  <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>),</i> 2026. <br>[Paper]</a></span>
 </div>
 <div style="clear:both;"></div>
 
@@ -98,7 +100,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 <div class="pub-block">
   <span class="p-title"> Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform.</span>
   <span class="p-author">Xianlu Tao\*, Jiaxuan Liu, <strong><u>Zhuoxuan Wang</u></strong>, Shuguo Pan, Jinle Xu.</span>
-  <span class="p-journal"><i>Chinese Journal of Scientific Instrument (<strong>EI</strong>)</i>, 2026. <a href="[https://ieeexplore.ieee.org/document/11482717](https://kns.cnki.net/kcms2/article/abstract?v=A2Z-m-A1gclQAKwazEiLRF2GXCvVztBoxaWAU1l-OFyJGEsUdUqjmLhzSVjC7GWX2-CPvX5INAebGU8p7W8lskZ1X5j8d4fPvxWyGyt84LOOKInsiXwB-gyxWLmZLtTtX6W7h23iuZE7hGJNKPLxErNBzp4bGoqK&uniplatform=NZKPT)">[Paper]</a></span>
+  <span class="p-journal"><i>Chinese Journal of Scientific Instrument (<strong>EI</strong>)</i>, 2026. <br><a href="https://kns.cnki.net/kcms2/article/abstract?v=A2Z-m-A1gclQAKwazEiLRF2GXCvVztBoxaWAU1l-OFyJGEsUdUqjmLhzSVjC7GWX2-CPvX5INAebGU8p7W8lskZ1X5j8d4fPvxWyGyt84LOOKInsiXwB-gyxWLmZLtTtX6W7h23iuZE7hGJNKPLxErNBzp4bGoqK&uniplatform=NZKPT">[Paper]</a></span>
 </div>
 <div style="clear:both;"></div>
 
@@ -109,46 +111,75 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 <div class="pub-block">
   <span class="p-title">Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles</span>
   <span class="p-author"> <strong><u>Zhuoxuan Wang</u></strong>, Shuguo Pan\*, Kegen Yu, Wang Gao and Zongliang Chen.</span>
-  <span class="p-journal"><i>IEEE Transactions on Industrial Electronics (<strong>Q1, IF=7.2</strong>)</i>, 2026. <a href="https://ieeexplore.ieee.org/document/11373019">[Paper]</a> <a href="https://github.com/WangZX-SEU/SST-Rev-DKN">[Code]</a></span>
+  <span class="p-journal"><i>IEEE Transactions on Industrial Electronics (<strong>Q1, IF=7.2</strong>)</i>, 2026. <br><a href="https://ieeexplore.ieee.org/document/11373019">[Paper]</a> <a href="https://github.com/WangZX-SEU/SST-Rev-DKN">[Code]</a></span>
 </div>
 <div style="clear:both;"></div>
 
 ---
 
-🔹 **<u>Zhuoxuan Wang</u>**, Shuguo Pan\*, Jinle Xu, Xianlu Tao, Wang Gao and Qiang Wang.  
-&nbsp; &nbsp; &nbsp; TIPS: Tiered Information-Rich Planning Strategy for Efficient UGV Autonomous Exploration.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11214391) [[Code]](https://github.com/WangZX-SEU/TIPS)   
-&nbsp; &nbsp; &nbsp; <i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2025.  
+<img align="left" width="420" src="/images/2025-RAL-TIPS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+
+<div class="pub-block">
+  <span class="p-title">TIPS: Tiered Information-Rich Planning Strategy for Efficient UGV Autonomous Exploration</span>
+  <span class="p-author"> <strong><u>Zhuoxuan Wang</u></strong>, Shuguo Pan\*, Jinle Xu, Xianlu Tao, Wang Gao and Qiang Wang.</span>
+  <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2025. <br><a href="https://ieeexplore.ieee.org/document/11214391">[Paper]</a> <a href="https://github.com/WangZX-SEU/TIPS">[Code]</a></span>
+</div>
+<div style="clear:both;"></div>
 
 ---
 
-🔹 Zongliang Chen, Shuguo Pan*, Kegen Yu, Yuting Wu, Wang Gao, **<u>Zhuoxuan Wang</u>**, Xiaolin Meng.  
-&nbsp; &nbsp; &nbsp; Fusion Control Tracking Strategy for Autonomous Vehicles: A Fast PPO Reinforcement Learning Based on Attention Mechanism and Physical  
-&nbsp; &nbsp; &nbsp; Information.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11173260)  
-&nbsp; &nbsp; &nbsp; <i>IEEE Transactions on Intelligent Transportation Systems (<strong>Q1, IF=8.4</strong>)</i>, 2025.  
+<img align="left" width="420" src="/images/2025-TITS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+
+<div class="pub-block">
+  <span class="p-title">Fusion Control Tracking Strategy for Autonomous Vehicles: A Fast PPO Reinforcement Learning Based on Attention Mechanism and Physical</span>
+  <span class="p-author"> Zongliang Chen, Shuguo Pan\*, Kegen Yu, Yuting Wu, Wang Gao, <strong><u>Zhuoxuan Wang</u></strong> Xiaolin Meng.</span>
+  <span class="p-journal"><i>IEEE Transactions on Intelligent Transportation Systems (<strong>Q1, IF=8.4</strong>)</i>, 2025. <br><a href="https://ieeexplore.ieee.org/document/11173260">[Paper]</a></span>
+</div>
+<div style="clear:both;"></div>
 
 ---
 
-🔹 Yuting Wu, Shuguo Pan*, Zongliang Chen, **<u>Zhuoxuan Wang</u>**, Wang Gao, Xianlu Tao.  
-&nbsp; &nbsp; &nbsp; A Fast PPO Reinforcement Learning Based on Attention Mechanism and Physical Information.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11184172/)  
-&nbsp; &nbsp; &nbsp; <i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2025.  
+<img align="left" width="420" src="/images/RAL-2025.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+
+<div class="pub-block">
+  <span class="p-title">A Fast PPO Reinforcement Learning Based on Attention Mechanism and Physical Information</span>
+  <span class="p-author">Yuting Wu, Shuguo Pan\*, Zongliang Chen, <strong><u>Zhuoxuan Wang</u></strong>, Wang Gao, Xianlu Tao.</span>
+  <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2025. <br><a href="https://ieeexplore.ieee.org/document/11184172">[Paper]</a></span>
+</div>
+<div style="clear:both;"></div>
+
+## Master Stage (2021.09-2024.02)
+
+<img align="left" width="420" src="/images/2024-TIV.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+
+<div class="pub-block">
+  <span class="p-title">A Path Planning Framework Based on an Improved Weighted Heuristic RRT and Optimization Strategy</span>
+  <span class="p-author">Lihui Wang\*, <strong><u>Zhuoxuan Wang</u></strong>, Zehua Ying, Xiao Bai, Ninghui Xu.</span>
+  <span class="p-journal"><i>IEEE Transactions on Intelligent Vehicles (<strong>Q1, IF=14.3</strong>)</i>, 2023. <br><a href="https://ieeexplore.ieee.org/document/10266793">[Paper]</a></span>
+</div>
+<div style="clear:both;"></div>
 
 ---
 
-🔹 Lihui Wang*, **<u>Zhuoxuan Wang</u>**, Zehua Ying, Xiao Bai, Ninghui Xu.  
-&nbsp; &nbsp; &nbsp; A Path Planning Framework Based on an Improved Weighted Heuristic RRT and Optimization Strategy.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/10266793)  
-&nbsp; &nbsp; &nbsp; <i>IEEE Transactions on Intelligent Vehicles (<strong>Q1, IF=14.3</strong>)</i>, 2023.  
+<img align="left" width="420" src="/images/2023-JIRS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+
+<div class="pub-block">
+  <span class="p-title"> Full Coverage Path Planning Methods of Harvesting Robot with Multi-Objective Constraints</span>
+  <span class="p-author">Lihui Wang\*, <strong><u>Zhuoxuan Wang</u></strong>, Mingjie Liu, Zehua Ying, Ninghui Xu, Qian Meng.</span>
+  <span class="p-journal"><i>Journal of Intelligent & Robotic Systems (<strong>Q3, IF=2.8</strong>)</i>, 2022. <br><a href="https://link.springer.com/article/10.1007/s10846-022-01722-0">[Paper]</a></span>
+</div>
+<div style="clear:both;"></div>
 
 ---
 
-🔹 Lihui Wang*, **<u>Zhuoxuan Wang</u>**, Mingjie Liu, Zehua Ying, Ninghui Xu, Qian Meng.  
-&nbsp; &nbsp; &nbsp; Full Coverage Path Planning Methods of Harvesting Robot with Multi-Objective Constraints.&nbsp; [[Paper]](https://link.springer.com/article/10.1007/s10846-022-01722-0)    
-&nbsp; &nbsp; &nbsp; <i>Journal of Intelligent & Robotic Systems (<strong>Q3, IF=2.8</strong>)</i>, 2022.  
+<img align="left" width="420" src="/images/2022-JIRS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
----
-
-🔹 Nan Qiao, Lihui Wang*, Mingjie Liu, **<u>Zhuoxuan Wang</u>**.  
-&nbsp; &nbsp; &nbsp; The sliding mode controller with improved reaching law for harvesting robots.&nbsp; [[Paper]](https://link.springer.com/article/10.1007/s10846-021-01536-6)     
-&nbsp; &nbsp; &nbsp; <i>Journal of Intelligent & Robotic Systems (<strong>Q3, IF=2.8</strong>)</i>, 2022.  
+<div class="pub-block">
+  <span class="p-title"> The sliding mode controller with improved reaching law for harvesting robots Constraints</span>
+  <span class="p-author">Nan Qiao, Lihui Wang\*,  Mingjie Liu, <strong><u>Zhuoxuan Wang</u></strong>.</span>
+  <span class="p-journal"><i>Journal of Intelligent & Robotic Systems (<strong>Q3, IF=2.8</strong>)</i>, 2022. <br><a href="https://link.springer.com/article/10.1007/s10846-021-01536-6">[Paper]</a></span>
+</div>
+<div style="clear:both;"></div>
 
 ---
 
