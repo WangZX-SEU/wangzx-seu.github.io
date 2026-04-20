@@ -320,3 +320,29 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/* 自定义论文条目样式 */
+.pub-item {
+  margin-bottom: 25px; /* 每篇论文之间的间距 */
+  line-height: 1.5;
+}
+
+.pub-title {
+  font-size: 24px !important; /* 强制执行 24px */
+  font-weight: bold;
+  display: block; /* 让标题自成一行 */
+  color: #222;    /* 颜色可根据需要调整 */
+  margin-bottom: 5px;
+}
+
+.pub-author {
+  font-size: 16px !important;
+  color: #555;
+  display: block; /* 作者自成一行 */
+}
+
+.pub-journal {
+  font-size: 16px !important;
+  font-style: italic; /* 斜体 */
+  color: #666;
+}
