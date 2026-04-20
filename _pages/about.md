@@ -41,12 +41,10 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 - **2025.10.16**: Our paper entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" has been acceped by *IEEE Robotics and Automation Letters (RAL)* 🎉🎉.
 - **2025.05.06**: I have been awarded the "Postgraduate Research＆Practice Innovation Program of Jiangsu Province" (*2025.05 - 2028.09*).
 
-<h1>📝 Publications
-</h1>
-
+# 📝 Publications
 
 🔹  Aohua Liu, Kun Qian\*, Zhaokun Yue, **<u>Zhuoxuan Wang</u>**, Boyi Duan, Shan Luo.    
-&nbsp; &nbsp; &nbsp; Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation.&nbsp; [Paper]  
+&nbsp; &nbsp; &nbsp; Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11482717)  
 &nbsp; &nbsp; &nbsp; <i>IEEE/ASME Transactions on Mechatronics (<strong>Q1, IF=7.3</strong>)</i>, 2026. 
 
 ---
@@ -63,8 +61,8 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ---
 
-🔹 **<u>Zhuoxuan Wang</u>**, Shuguo Pan\*, Kegen Yu, Wang Gao and Zongliang Chen.  
-&nbsp; &nbsp; &nbsp; Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11373019) [[Code]](https://github.com/WangZX-SEU/SST-Rev-DKN)  
+🔹  **<u>Zhuoxuan Wang</u>**, Shuguo Pan\*, Kegen Yu, Wang Gao and Zongliang Chen.  
+&nbsp; &nbsp; &nbsp; Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11373019) [[Code]](https://github.com/WangZX-SEU/SST-Rev-DKN)    
 &nbsp; &nbsp; &nbsp; <i>IEEE Transactions on Industrial Electronics (<strong>Q1, IF=7.2</strong>)</i>, 2026.  
 
 ---
@@ -104,6 +102,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 &nbsp; &nbsp; &nbsp; The sliding mode controller with improved reaching law for harvesting robots.&nbsp; [[Paper]](https://link.springer.com/article/10.1007/s10846-021-01536-6)     
 &nbsp; &nbsp; &nbsp; <i>Journal of Intelligent & Robotic Systems (<strong>Q3, IF=2.8</strong>)</i>, 2022.  
 
+---
 
 # 🎖 Honors and Awards
 - **2025.10**: &nbsp; Third-Class Scholarship for Doctoral Students of Southeast University (￥10,000).
