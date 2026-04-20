@@ -59,7 +59,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
     color: var(--global-text-color) !important;
   }
   .p-author {
-    font-size: 1rem !important; /* 约 16px */
+    font-size: 1.125rem !important; /* 约 16px */
     display: block !important;
     margin-bottom: 0.2rem !important;
     color: var(--global-text-color) !important;
