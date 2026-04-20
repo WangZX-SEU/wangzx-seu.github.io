@@ -312,37 +312,39 @@ nav {
   }
 }
 
-/*
-   Global animation transition
+/* ==========================================================================
+   CUSTOM PUBLICATION STYLES (Added for Zhuoxuan Wang)
    ========================================================================== */
 
-b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
-  -webkit-transition: $global-transition;
-  transition: $global-transition;
+.pub-container {
+  margin-bottom: 1.5em;
+  display: block;
 }
 
-/* 自定义论文条目样式 */
-.pub-item {
-  margin-bottom: 25px; /* 每篇论文之间的间距 */
-  line-height: 1.5;
+/* 论文标题：24px, 加粗 */
+.pub-title-custom {
+  font-size: 24px !important;
+  font-weight: bold !important;
+  line-height: 1.2 !important;
+  display: block !important;
+  margin-bottom: 4px !important;
+  color: #333 !important; /* 颜色可根据需求调整 */
 }
 
-.pub-title {
-  font-size: 24px !important; /* 强制执行 24px */
-  font-weight: bold;
-  display: block; /* 让标题自成一行 */
-  color: #222;    /* 颜色可根据需要调整 */
-  margin-bottom: 5px;
-}
-
-.pub-author {
+/* 作者和期刊信息：16px */
+.pub-info-custom {
   font-size: 16px !important;
-  color: #555;
-  display: block; /* 作者自成一行 */
+  line-height: 1.5 !important;
+  display: block !important;
+  color: #666 !important;
 }
 
-.pub-journal {
-  font-size: 16px !important;
-  font-style: italic; /* 斜体 */
-  color: #666;
+/* 专门给期刊用的斜体类 */
+.pub-journal-custom {
+  font-style: italic !important;
+}
+
+/* 移除链接下划线（可选） */
+.pub-link {
+  font-size: 14px;
 }
