@@ -56,7 +56,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 ---
 
 🔹  Xianlu Tao\*, Jiaxuan Liu, **<u>Zhuoxuan Wang</u>**, Shuguo Pan, Jinle Xu.  
-&nbsp; &nbsp; &nbsp; Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform.&nbsp; [Paper]  
+&nbsp; &nbsp; &nbsp; Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform.&nbsp; [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=A2Z-m-A1gclQAKwazEiLRF2GXCvVztBoxaWAU1l-OFyJGEsUdUqjmLhzSVjC7GWX2-CPvX5INAebGU8p7W8lskZ1X5j8d4fPvxWyGyt84LOOKInsiXwB-gyxWLmZLtTtX6W7h23iuZE7hGJNKPLxErNBzp4bGoqK&uniplatform=NZKPT)  
 &nbsp; &nbsp; &nbsp; <i>Chinese Journal of Scientific Instrument (<strong>EI</strong>)</i>, 2026.  
 
 ---
