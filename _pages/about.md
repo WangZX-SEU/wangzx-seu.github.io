@@ -76,8 +76,8 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
   }
 </style>
 
-## Ph.D Stage (2024.02 — Present)
-<br>
+## Ph.D Stage (2024.02 — Present)  
+
 <img align="left" width="360" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
@@ -154,8 +154,8 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 <div style="clear:both;"></div>
 
 <br>
-## Master Stage (2021.09 — 2024.02)
-<br>
+## Master Stage (2021.09 — 2024.02)  
+
 <img align="left" width="360" src="/images/2024-TIV.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
