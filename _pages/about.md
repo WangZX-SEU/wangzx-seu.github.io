@@ -183,7 +183,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 <div class="pub-block">
   <span class="p-title"> The sliding mode controller with improved reaching law for harvesting robots Constraints</span>
   <span class="p-author">Nan Qiao, Lihui Wang*,  Mingjie Liu, <strong><u>Zhuoxuan Wang</u></strong>.</span>
-  <span class="p-journal"><i>Journal of Intelligent & Robotic Systems (<strong>Q3, IF=2.8</strong>)</i>, 2022. <br><a href="https://link.springer.com/article/10.1007/s10846-021-01536-6">[Paper]</a></span>
+  <span class="p-journal"><i>Journal of Intelligent & Robotic Systems (<strong>Q3, IF=2.8</strong>)</i>, 2022. <a href="https://link.springer.com/article/10.1007/s10846-021-01536-6">[Paper]</a></span>
 </div>
 <div style="clear:both;"></div>
 
