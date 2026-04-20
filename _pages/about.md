@@ -153,6 +153,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 </div>
 <div style="clear:both;"></div>
 
+<hr class="hr-bold">
 <br>
 ## Master Stage (2021.09 — 2024.02)  
 
