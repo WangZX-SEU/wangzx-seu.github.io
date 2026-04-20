@@ -77,7 +77,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 </style>
 
 ## Ph.D Stage (2024.02-Present)
-
+<br>
 <img align="left" width="360" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
@@ -94,7 +94,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 <div class="pub-block">
   <span class="p-title">PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review)</span>
   <span class="p-author">Yuxiang Gao†, <strong><u>Zhuoxuan Wang</u></strong>†, Xianlu Tao*, Jinle Xu, Shuguo Pan. († Equal Contribution).</span>
-  <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>),</i> 2026. <br>[Paper]</a></span>
+  <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2026. <br>[Paper]</span>
 </div>
 <div style="clear:both;"></div>
 
@@ -155,7 +155,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 <br>
 ## Master Stage (2021.09-2024.02)
-
+<br>
 <img align="left" width="360" src="/images/2024-TIV.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
@@ -202,7 +202,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 I have mainly used **Claude Code** and **Cursor**, and currently have developed two projects with the help of AI agents:  
 - **OpenClaw Virtual Machine Isolation Installation Guide** [[Project page]](https://github.com/WangZX-SEU/openclaw-guide)  
 A detailed OpenClaw virtual machine isolation installation guide designed specifically for running OpenClaw through VirtualBox on Ubuntu 24.04 hosts. It includes detailed steps, precautions, and is very suitable for users who want to use OpenClaw on Ubuntu but are concerned about contaminating local files.  
-_(Based on this guidance, I have configured two 🦐 workers on my **Feishu** app for paper summary and daily AI news organization.)_ 😀.
+_(Based on this guidance, I have configured two 🦐 workers on my **Feishu** app for paper summary and daily AI news organization)_ 😀.
 - **ArXiv Paper Crawler** [[Project page]](https://github.com/WangZX-SEU/wangzx-seu.github.io)  
 Forked from <a href="https://github.com/RayeRen/acad-homepage.github.io" target="_blank">RayeRen's project</a>, added daily automated crawling, daily report generation, and the function of summarizing papers by specific authors.  
 
