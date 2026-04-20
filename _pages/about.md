@@ -87,7 +87,18 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 <div class="pub-block">
   <span class="p-title">PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review, R1)</span>
   <span class="p-author">Yuxiang Gao†, <strong><u>Zhuoxuan Wang</u></strong>†, Xianlu Tao\*, Jinle Xu, Shuguo Pan. (**† Equal Contribution**).</span>
-  <span class="p-journal"><i>IEEE Robotics and Automation Letters (Q1, IF=5.3),</i>i> 2026. <a href="https://ieeexplore.ieee.org/document/11482717">[Paper]</a></span>
+  <span class="p-journal"><i>IEEE Robotics and Automation Letters (Q1, IF=5.3),</i>i> 2026. [Paper]</a></span>
+</div>
+<div style="clear:both;"></div>
+
+---
+
+<img align="left" width="500" src="/images/2026-YQYB.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+
+<div class="pub-block">
+  <span class="p-title"> Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform.</span>
+  <span class="p-author">Xianlu Tao\*, Jiaxuan Liu, <strong><u>Zhuoxuan Wang</u></strong>, Shuguo Pan, Jinle Xu.</span>
+  <span class="p-journal"><i>Chinese Journal of Scientific Instrument (<strong>EI</strong>)</i>, 2026. <a href="[https://ieeexplore.ieee.org/document/11482717](https://kns.cnki.net/kcms2/article/abstract?v=A2Z-m-A1gclQAKwazEiLRF2GXCvVztBoxaWAU1l-OFyJGEsUdUqjmLhzSVjC7GWX2-CPvX5INAebGU8p7W8lskZ1X5j8d4fPvxWyGyt84LOOKInsiXwB-gyxWLmZLtTtX6W7h23iuZE7hGJNKPLxErNBzp4bGoqK&uniplatform=NZKPT)">[Paper]</a></span>
 </div>
 <div style="clear:both;"></div>
 
@@ -97,12 +108,10 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 <div class="pub-block">
   <span class="p-title">PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review, R1)</span>
-  <span class="p-author">Xianlu Tao\*, Jiaxuan Liu, <strong><u>Zhuoxuan Wang</u></strong>, Shuguo Pan, Jinle Xu.</span>
+  <span class="p-author"> <strong><u>Zhuoxuan Wang</u></strong>, Shuguo Pan\*, Kegen Yu, Wang Gao and Zongliang Chen.</span>
   <span class="p-journal"><i>Chinese Journal of Scientific Instrument (<strong>EI</strong>)</i>, 2026. <a href="[https://ieeexplore.ieee.org/document/11482717](https://kns.cnki.net/kcms2/article/abstract?v=A2Z-m-A1gclQAKwazEiLRF2GXCvVztBoxaWAU1l-OFyJGEsUdUqjmLhzSVjC7GWX2-CPvX5INAebGU8p7W8lskZ1X5j8d4fPvxWyGyt84LOOKInsiXwB-gyxWLmZLtTtX6W7h23iuZE7hGJNKPLxErNBzp4bGoqK&uniplatform=NZKPT)">[Paper]</a></span>
 </div>
 <div style="clear:both;"></div>
-
----
 
 🔹  **<u>Zhuoxuan Wang</u>**, Shuguo Pan\*, Kegen Yu, Wang Gao and Zongliang Chen.  
 &nbsp; &nbsp; &nbsp; Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11373019) [[Code]](https://github.com/WangZX-SEU/SST-Rev-DKN)    
