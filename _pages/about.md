@@ -66,38 +66,41 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
   }
   .p-journal {
     font-size: 1rem !important; /* 约 16px */
-    font-style: italic !important;
     display: block !important;
     color: var(--global-text-color) !important;
   }
 </style>
 
-<img align="left" width="540" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<img align="left" width="500" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title">Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation</span>
   <span class="p-author">Aohua Liu, Kun Qian*, Zhaokun Yue, <strong><u>Zhuoxuan Wang</u></strong>, Boyi Duan, Shan Luo.</span>
-  <span class="p-journal">IEEE/ASME Transactions on Mechatronics (Q1, IF=7.3), 2026. <a href="https://ieeexplore.ieee.org/document/11482717">[Paper]</a></span>
+  <span class="p-journal"><i>IEEE/ASME Transactions on Mechatronics (Q1, IF=7.3)</i>i>, 2026. <a href="https://ieeexplore.ieee.org/document/11482717">[Paper]</a></span>
 </div>
 <div style="clear:both;"></div>
 
 ---
 
-🔹  Aohua Liu, Kun Qian\*, Zhaokun Yue, **<u>Zhuoxuan Wang</u>**, Boyi Duan, Shan Luo.    
-&nbsp; &nbsp; &nbsp; Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11482717)  
-&nbsp; &nbsp; &nbsp; <i>IEEE/ASME Transactions on Mechatronics (<strong>Q1, IF=7.3</strong>)</i>, 2026. 
+<img align="left" width="500" src="/images/2026-RAL.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+
+<div class="pub-block">
+  <span class="p-title">PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review, R1)</span>
+  <span class="p-author">Yuxiang Gao†, <strong><u>Zhuoxuan Wang</u></strong>†, Xianlu Tao\*, Jinle Xu, Shuguo Pan. (**† Equal Contribution**).</span>
+  <span class="p-journal"><i>IEEE Robotics and Automation Letters (Q1, IF=5.3),</i>i> 2026. <a href="https://ieeexplore.ieee.org/document/11482717">[Paper]</a></span>
+</div>
+<div style="clear:both;"></div>
 
 ---
 
-🔹  Yuxiang Gao†, **<u>Zhuoxuan Wang</u>†**, Xianlu Tao\*, Jinle Xu, Shuguo Pan. (**† Equal Contribution**)  
-&nbsp; &nbsp; &nbsp; PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review, R1)  
-&nbsp; &nbsp; &nbsp; <i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2026. 
+<img align="left" width="500" src="/images/2026-YQYB.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
----
-
-🔹  Xianlu Tao\*, Jiaxuan Liu, **<u>Zhuoxuan Wang</u>**, Shuguo Pan, Jinle Xu.  
-&nbsp; &nbsp; &nbsp; Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform.&nbsp; [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=A2Z-m-A1gclQAKwazEiLRF2GXCvVztBoxaWAU1l-OFyJGEsUdUqjmLhzSVjC7GWX2-CPvX5INAebGU8p7W8lskZ1X5j8d4fPvxWyGyt84LOOKInsiXwB-gyxWLmZLtTtX6W7h23iuZE7hGJNKPLxErNBzp4bGoqK&uniplatform=NZKPT)  
-&nbsp; &nbsp; &nbsp; <i>Chinese Journal of Scientific Instrument (<strong>EI</strong>)</i>, 2026.  
+<div class="pub-block">
+  <span class="p-title">PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review, R1)</span>
+  <span class="p-author">Xianlu Tao\*, Jiaxuan Liu, <strong><u>Zhuoxuan Wang</u></strong>, Shuguo Pan, Jinle Xu.</span>
+  <span class="p-journal"><i>Chinese Journal of Scientific Instrument (<strong>EI</strong>)</i>, 2026. <a href="[https://ieeexplore.ieee.org/document/11482717](https://kns.cnki.net/kcms2/article/abstract?v=A2Z-m-A1gclQAKwazEiLRF2GXCvVztBoxaWAU1l-OFyJGEsUdUqjmLhzSVjC7GWX2-CPvX5INAebGU8p7W8lskZ1X5j8d4fPvxWyGyt84LOOKInsiXwB-gyxWLmZLtTtX6W7h23iuZE7hGJNKPLxErNBzp4bGoqK&uniplatform=NZKPT)">[Paper]</a></span>
+</div>
+<div style="clear:both;"></div>
 
 ---
 
