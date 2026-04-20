@@ -72,11 +72,17 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
   }
 </style>
 
+<img align="left" width="180" src="/images/wzx_daily.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+
 <div class="pub-block">
-  <span class="p-title">🔹 Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation</span>
-  <span class="p-author">Aohua Liu, Kun Qian*, Zhaokun Yue, <u>Zhuoxuan Wang</u>, Boyi Duan, Shan Luo.</span>
+  <span class="p-title">Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation</span>
+  <span class="p-author">Aohua Liu, Kun Qian*, Zhaokun Yue, <strong>Zhuoxuan Wang</strong>, Boyi Duan, Shan Luo.</span>
   <span class="p-journal">IEEE/ASME Transactions on Mechatronics (Q1, IF=7.3), 2026. <a href="https://ieeexplore.ieee.org/document/11482717">[Paper]</a></span>
 </div>
+<div style="clear:both;"></div>
+<br><br><br><br><br><br>
+
+---
 
 🔹  Aohua Liu, Kun Qian\*, Zhaokun Yue, **<u>Zhuoxuan Wang</u>**, Boyi Duan, Shan Luo.    
 &nbsp; &nbsp; &nbsp; Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation.&nbsp; [[Paper]](https://ieeexplore.ieee.org/document/11482717)  
