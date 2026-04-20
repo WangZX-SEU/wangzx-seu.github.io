@@ -73,7 +73,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ## Ph.D Stage (2024.02-Present)
 
-<img align="left" width="420" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<img align="left" width="360" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title">Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation</span>
@@ -84,10 +84,10 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ---
 
-<img align="left" width="420" src="/images/2026-RAL.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<img align="left" width="360" src="/images/2026-RAL.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
-  <span class="p-title">PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review, R1)</span>
+  <span class="p-title">PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review)</span>
   <span class="p-author">Yuxiang Gao†, <strong><u>Zhuoxuan Wang</u></strong>†, Xianlu Tao*, Jinle Xu, Shuguo Pan. (**† Equal Contribution**).</span>
   <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>),</i> 2026. <br>[Paper]</a></span>
 </div>
@@ -95,7 +95,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ---
 
-<img align="left" width="420" src="/images/2026-YQYB.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<img align="left" width="360" src="/images/2026-YQYB.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title"> Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform.</span>
@@ -106,7 +106,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ---
 
-<img align="left" width="420" src="/images/2026-TIE.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<img align="left" width="360" src="/images/2026-TIE.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title">Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles</span>
@@ -117,7 +117,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ---
 
-<img align="left" width="420" src="/images/2025-RAL-TIPS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<img align="left" width="360" src="/images/2025-RAL-TIPS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title">TIPS: Tiered Information-Rich Planning Strategy for Efficient UGV Autonomous Exploration</span>
@@ -128,7 +128,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ---
 
-<img align="left" width="420" src="/images/2025-TITS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<img align="left" width="360" src="/images/2025-TITS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title">Fusion Control Tracking Strategy for Autonomous Vehicles: A Fast PPO Reinforcement Learning Based on Attention Mechanism and Physical</span>
@@ -139,7 +139,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ---
 
-<img align="left" width="420" src="/images/RAL-2025.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<img align="left" width="360" src="/images/RAL-2025.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title">A Fast PPO Reinforcement Learning Based on Attention Mechanism and Physical Information</span>
@@ -148,9 +148,10 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 </div>
 <div style="clear:both;"></div>
 
+<br>
 ## Master Stage (2021.09-2024.02)
 
-<img align="left" width="420" src="/images/2024-TIV.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<img align="left" width="360" src="/images/2024-TIV.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title">A Path Planning Framework Based on an Improved Weighted Heuristic RRT and Optimization Strategy</span>
@@ -161,7 +162,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ---
 
-<img align="left" width="420" src="/images/2023-JIRS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<img align="left" width="360" src="/images/2023-JIRS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title"> Full Coverage Path Planning Methods of Harvesting Robot with Multi-Objective Constraints</span>
@@ -172,7 +173,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ---
 
-<img align="left" width="420" src="/images/2022-JIRS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<img align="left" width="360" src="/images/2022-JIRS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title"> The sliding mode controller with improved reaching law for harvesting robots Constraints</span>
