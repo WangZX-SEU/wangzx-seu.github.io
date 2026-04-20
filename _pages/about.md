@@ -26,8 +26,8 @@ My research interests include **robot autonomous exploration**, **motion plannin
 I am also exploring the ways to work with **AI agents**, which is very interesting😊. Embracing the trends, seizing the momentum! 
 
 # 📖 Educations
-- **2021.09 - Present**: Ph.D. candidate in an **Integrated Master–Ph.D. Program** at Southeast University, Nanjing, China. Doctoral Advisor: Shuguo Pan. Master’s Advisor: Lihui Wang. 
-- **2017.09 - 2021.06**: B.E. in Measurement and Control Technology and Instrumentation from Harbin Engineering University. 
+- **2021.09 — Present**: Ph.D. candidate in an **Integrated Master–Ph.D. Program** at Southeast University, Nanjing, China. Doctoral Advisor: Shuguo Pan. Master’s Advisor: Lihui Wang. 
+- **2017.09 — 2021.06**: B.E. in Measurement and Control Technology and Instrumentation from Harbin Engineering University. 
 
 # 📰 News
 - **2026.03.23**: The work co-authored with my collaborator **Aohua Liu** entitled "Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation" has been accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)* 🎉🎉.
