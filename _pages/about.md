@@ -65,10 +65,12 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
     color: var(--global-text-color) !important;
   }
   .p-firstauthor {
-    font-size: 1.125rem !important; /* 约 16px */
-    display: block !important;
-    margin-bottom: 0.2rem !important;
-    color: #0969da !important;
+      font-size: 1.125rem !important;
+      display: block !important; /* 必须改成 inline，不然会换行！ */
+      margin-bottom: 0.2rem !important;
+      color: #0969da !important; /* GitHub 链接蓝 */
+      font-weight: bold !important;
+      text-decoration: underline !important;
   }
   .p-journal {
     font-size: 1rem !important; /* 约 16px */
@@ -93,7 +95,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 <div class="pub-block">
   <span class="p-title">PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review)</span>
-  <span class="p-author">Yuxiang Gao†, <span class="p-firstauthor>"<strong><u>Zhuoxuan Wang</u></strong>†</span>, Xianlu Tao*, Jinle Xu, Shuguo Pan.</span>
+  <span class="p-author">Yuxiang Gao†, <span class="p-firstauthor">Zhuoxuan Wang†</span>, Xianlu Tao*, Jinle Xu, Shuguo Pan.</span>
   <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2026. <br>[Paper]</span>
 </div>
 <div style="clear:both;"></div>
