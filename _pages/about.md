@@ -71,18 +71,25 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
   }
   .hr-bold {
     border: 0 !important;
+    border-top: 0.5px solid #ccc !important; /* 2px 粗细，颜色可改 */
+    margin: 2rem 0 !important;
+  }
+  .hrr-bold {
+    border: 0 !important;
     border-top: 2px solid #ccc !important; /* 2px 粗细，颜色可改 */
     margin: 2rem 0 !important;
   }
 </style>
 
-## (Student) First Author  
+## Student First Author († indicates equal contribution)  
+
+<hr class="hrr-bold">
 
 <img align="left" width="360" src="/images/2026-RAL.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title">PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review)</span>
-  <span class="p-author">Yuxiang Gao†, <strong><u>Zhuoxuan Wang</u></strong>†, Xianlu Tao*, Jinle Xu, Shuguo Pan. († Equal Contribution).</span>
+  <span class="p-author">Yuxiang Gao†, <strong><u>Zhuoxuan Wang</u></strong>†, Xianlu Tao*, Jinle Xu, Shuguo Pan.</span>
   <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2026. <br>[Paper]</span>
 </div>
 <div style="clear:both;"></div>
@@ -132,7 +139,10 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 <div style="clear:both;"></div>
 
 <hr class="hr-bold">
+
 ## Co-author  
+
+<hr class="hrr-bold">
 
 <img align="left" width="360" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
