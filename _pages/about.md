@@ -89,17 +89,6 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 <hr class="hr-bold">
 
-<img align="left" width="360" src="/images/2026-YQYB.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
-
-<div class="pub-block">
-  <span class="p-title"> Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform.</span>
-  <span class="p-author">Xianlu Tao*, Jiaxuan Liu, <strong><u>Zhuoxuan Wang</u></strong>, Shuguo Pan, Jinle Xu.</span>
-  <span class="p-journal"><i>Chinese Journal of Scientific Instrument (<strong>EI</strong>)</i>, 2026. <br><a href="https://kns.cnki.net/kcms2/article/abstract?v=A2Z-m-A1gclQAKwazEiLRF2GXCvVztBoxaWAU1l-OFyJGEsUdUqjmLhzSVjC7GWX2-CPvX5INAebGU8p7W8lskZ1X5j8d4fPvxWyGyt84LOOKInsiXwB-gyxWLmZLtTtX6W7h23iuZE7hGJNKPLxErNBzp4bGoqK&uniplatform=NZKPT">[Paper]</a></span>
-</div>
-<div style="clear:both;"></div>
-
-<hr class="hr-bold">
-
 <img align="left" width="360" src="/images/2026-TIE.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
@@ -156,6 +145,17 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 <hr class="hr-bold">
 
+<img align="left" width="360" src="/images/2026-YQYB.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+
+<div class="pub-block">
+  <span class="p-title"> Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform.</span>
+  <span class="p-author">Xianlu Tao*, Jiaxuan Liu, <strong><u>Zhuoxuan Wang</u></strong>, Shuguo Pan, Jinle Xu.</span>
+  <span class="p-journal"><i>Chinese Journal of Scientific Instrument (<strong>EI</strong>)</i>, 2026. <br><a href="https://kns.cnki.net/kcms2/article/abstract?v=A2Z-m-A1gclQAKwazEiLRF2GXCvVztBoxaWAU1l-OFyJGEsUdUqjmLhzSVjC7GWX2-CPvX5INAebGU8p7W8lskZ1X5j8d4fPvxWyGyt84LOOKInsiXwB-gyxWLmZLtTtX6W7h23iuZE7hGJNKPLxErNBzp4bGoqK&uniplatform=NZKPT">[Paper]</a></span>
+</div>
+<div style="clear:both;"></div>
+
+<hr class="hr-bold">
+
 <img align="left" width="360" src="/images/2025-TITS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
@@ -175,6 +175,8 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
   <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2025. <br><a href="https://ieeexplore.ieee.org/document/11184172">[Paper]</a></span>
 </div>
 <div style="clear:both;"></div>
+
+<hr class="hr-bold">
 
 <img align="left" width="360" src="/images/2022-JIRS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
