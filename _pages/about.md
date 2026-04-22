@@ -82,8 +82,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 </style>
 
 ## Student First Author († indicates equal contribution)  
-
-<hr class="hrr-bold">
+<class="hrr-bold">
 
 <img align="left" width="360" src="/images/2026-RAL.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
@@ -141,8 +140,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 <hr class="hr-bold">
 
 ## Co-author  
-
-<hr class="hrr-bold">
+<class="hrr-bold">
 
 <img align="left" width="360" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
