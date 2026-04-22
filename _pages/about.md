@@ -76,18 +76,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
   }
 </style>
 
-## Ph.D Stage (2024.02 — Present)  
-
-<img align="left" width="360" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
-
-<div class="pub-block">
-  <span class="p-title">Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation</span>
-  <span class="p-author">Aohua Liu, Kun Qian*, Zhaokun Yue, <strong><u>Zhuoxuan Wang</u></strong>, Boyi Duan, Shan Luo.</span>
-  <span class="p-journal"><i>IEEE/ASME Transactions on Mechatronics (<strong>Q1, IF=7.3</strong>)</i>, 2026. <br><a href="https://ieeexplore.ieee.org/document/11482717">[Paper]</a></span>
-</div>
-<div style="clear:both;"></div>
-
-<hr class="hr-bold">
+## (Student) First Author  
 
 <img align="left" width="360" src="/images/2026-RAL.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
@@ -133,29 +122,6 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 <hr class="hr-bold">
 
-<img align="left" width="360" src="/images/2025-TITS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
-
-<div class="pub-block">
-  <span class="p-title">Fusion Control Tracking Strategy for Autonomous Vehicles: A Fast PPO Reinforcement Learning Based on Attention Mechanism and Physical</span>
-  <span class="p-author"> Zongliang Chen, Shuguo Pan*, Kegen Yu, Yuting Wu, Wang Gao, <strong><u>Zhuoxuan Wang</u></strong> Xiaolin Meng.</span>
-  <span class="p-journal"><i>IEEE Transactions on Intelligent Transportation Systems (<strong>Q1, IF=8.4</strong>)</i>, 2025. <br><a href="https://ieeexplore.ieee.org/document/11173260">[Paper]</a></span>
-</div>
-<div style="clear:both;"></div>
-
-<hr class="hr-bold">
-
-<img align="left" width="360" src="/images/RAL-2025.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
-
-<div class="pub-block">
-  <span class="p-title">A Fast PPO Reinforcement Learning Based on Attention Mechanism and Physical Information</span>
-  <span class="p-author">Yuting Wu, Shuguo Pan*, Zongliang Chen, <strong><u>Zhuoxuan Wang</u></strong>, Wang Gao, Xianlu Tao.</span>
-  <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2025. <br><a href="https://ieeexplore.ieee.org/document/11184172">[Paper]</a></span>
-</div>
-<div style="clear:both;"></div>
-
-<hr class="hr-bold">
-## Master Stage (2021.09 — 2024.02)  
-
 <img align="left" width="360" src="/images/2024-TIV.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
@@ -177,6 +143,38 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 <div style="clear:both;"></div>
 
 <hr class="hr-bold">
+## Co-author  
+
+<img align="left" width="360" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+
+<div class="pub-block">
+  <span class="p-title">Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation</span>
+  <span class="p-author">Aohua Liu, Kun Qian*, Zhaokun Yue, <strong><u>Zhuoxuan Wang</u></strong>, Boyi Duan, Shan Luo.</span>
+  <span class="p-journal"><i>IEEE/ASME Transactions on Mechatronics (<strong>Q1, IF=7.3</strong>)</i>, 2026. <br><a href="https://ieeexplore.ieee.org/document/11482717">[Paper]</a></span>
+</div>
+<div style="clear:both;"></div>
+
+<hr class="hr-bold">
+
+<img align="left" width="360" src="/images/2025-TITS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+
+<div class="pub-block">
+  <span class="p-title">Fusion Control Tracking Strategy for Autonomous Vehicles: A Fast PPO Reinforcement Learning Based on Attention Mechanism and Physical</span>
+  <span class="p-author"> Zongliang Chen, Shuguo Pan*, Kegen Yu, Yuting Wu, Wang Gao, <strong><u>Zhuoxuan Wang</u></strong> Xiaolin Meng.</span>
+  <span class="p-journal"><i>IEEE Transactions on Intelligent Transportation Systems (<strong>Q1, IF=8.4</strong>)</i>, 2025. <br><a href="https://ieeexplore.ieee.org/document/11173260">[Paper]</a></span>
+</div>
+<div style="clear:both;"></div>
+
+<hr class="hr-bold">
+
+<img align="left" width="360" src="/images/RAL-2025.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+
+<div class="pub-block">
+  <span class="p-title">A Fast PPO Reinforcement Learning Based on Attention Mechanism and Physical Information</span>
+  <span class="p-author">Yuting Wu, Shuguo Pan*, Zongliang Chen, <strong><u>Zhuoxuan Wang</u></strong>, Wang Gao, Xianlu Tao.</span>
+  <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2025. <br><a href="https://ieeexplore.ieee.org/document/11184172">[Paper]</a></span>
+</div>
+<div style="clear:both;"></div>
 
 <img align="left" width="360" src="/images/2022-JIRS.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
