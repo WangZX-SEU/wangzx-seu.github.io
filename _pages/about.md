@@ -87,8 +87,6 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 - **2026.01.19**: Our paper entitled "Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform" has been acceped by *Chinese Journal of Scientific Instrument* 🎉🎉.
 - **2026.01.04**: Our paper entitled "Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles" has been acceped by *IEEE Transactions on Industrial Electronics (TIE)* 🎉🎉.
 
-<hr class="hr-lbold">
-
 ## 2025
 - **2025.12.01**: I have received an invitation from **Sapienza University of Rome** for a one-year CSC visiting program (*2026.09 — 2027.10*).  
   My host professor will be <a href="https://scholar.google.com/citations?hl=zh-CN&user=xZwripcAAAAJ" target="_blank"><strong>Daniele Nardi</strong></a>.  
