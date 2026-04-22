@@ -50,7 +50,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
     text-align: left !important;
   }
   .p-title {
-    font-size: 1.25rem !important; /* 约 24px */
+    font-size: 1.125rem !important; /* 约 24px */
     font-weight: bold !important;
     line-height: 1.2 !important;
     display: block !important;
@@ -89,7 +89,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
   }
 </style>
 
-# Student First Author († indicates equal contribution)
+## Student First Author († indicates equal contribution)
 <br>
 <img align="left" width="360" src="/images/2026-RAL.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
@@ -153,7 +153,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 <hr class="hr-bold">
 
-# Co-author
+## Co-author
 <br>
 <img align="left" width="360" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
