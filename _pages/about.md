@@ -64,6 +64,12 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
     margin-bottom: 0.2rem !important;
     color: var(--global-text-color) !important;
   }
+  .p-firstauthor {
+    font-size: 1.125rem !important; /* 约 16px */
+    display: block !important;
+    margin-bottom: 0.2rem !important;
+    color: #0969da !important;
+  }
   .p-journal {
     font-size: 1rem !important; /* 约 16px */
     display: block !important;
@@ -82,13 +88,12 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 </style>
 
 ## Student First Author († indicates equal contribution)  
-<hr class="hr-bold">
 
 <img align="left" width="360" src="/images/2026-RAL.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title">PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review)</span>
-  <span class="p-author">Yuxiang Gao†, <strong><u>Zhuoxuan Wang</u></strong>†, Xianlu Tao*, Jinle Xu, Shuguo Pan.</span>
+  <span class="p-author">Yuxiang Gao†, <span class="p-firstauthor>"<strong><u>Zhuoxuan Wang</u></strong>†</span>, Xianlu Tao*, Jinle Xu, Shuguo Pan.</span>
   <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2026. <br>[Paper]</span>
 </div>
 <div style="clear:both;"></div>
@@ -140,7 +145,6 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 <hr class="hr-bold">
 
 ## Co-author  
-<hr class="hr-bold">
 
 <img align="left" width="360" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
