@@ -82,7 +82,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 # 📰 News
 ## 2026
 - **2026.05.28**: I have officially received funding from CSC and expect to start my visiting in **Sapienza University of Rome** in *2026.09* 🎉🎉.
-  **2026.05.10**: Our latest work "A Novel LiDAR-Inertial Integrated Implicit Localization Framework via Uncertainty-Aware Scene Coordinate Regression" has been submmited to *IEEE Transactions on Industrial Informatics (TII)*.
+- **2026.05.10**: Our latest work "A Novel LiDAR-Inertial Integrated Implicit Localization Framework via Uncertainty-Aware Scene Coordinate Regression" has been submmited to *IEEE Transactions on Industrial Informatics (TII)*.
 - **2026.03.23**: The work co-authored with my collaborator **Aohua Liu** entitled "Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation" has been accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)* 🎉🎉.
 - **2026.02.06**: Our latest work "PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments" has been submmited to *IEEE Robotics and Automation Letters (RAL)*.
 - **2026.02.01**: Our paper entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" published on *IEEE Robotics and Automation Letters (RAL)* has been transferred to and accpeted by *IEEE International Conference on Robotics and Automation (ICRA) 2026, Vienna* 🎉🎉.
