@@ -166,7 +166,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ## 🔸 Co-author
 <br>
-<img align="left" width="360" src="/images/2026-TII-L" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<img align="left" width="360" src="/images/2026-TII-L.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title">A Novel LiDAR-Inertial Integrated Implicit Localization Framework via Uncertainty-Aware Scene Coordinate Regression (Under Review)</span>
