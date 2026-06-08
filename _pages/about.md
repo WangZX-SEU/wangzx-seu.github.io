@@ -81,6 +81,8 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 # 📰 News
 ## 2026
+- **2026.05.28**: I have officially received funding from CSC and expect to start my visiting in **Sapienza University of Rome** in *2026.09* 🎉🎉.
+  **2026.05.10**: Our latest work "A Novel LiDAR-Inertial Integrated Implicit Localization Framework via Uncertainty-Aware Scene Coordinate Regression" has been submmited to *IEEE Transactions on Industrial Informatics (TII)*.
 - **2026.03.23**: The work co-authored with my collaborator **Aohua Liu** entitled "Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation" has been accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)* 🎉🎉.
 - **2026.02.06**: Our latest work "PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments" has been submmited to *IEEE Robotics and Automation Letters (RAL)*.
 - **2026.02.01**: Our paper entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" published on *IEEE Robotics and Automation Letters (RAL)* has been transferred to and accpeted by *IEEE International Conference on Robotics and Automation (ICRA) 2026, Vienna* 🎉🎉.
@@ -164,6 +166,17 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ## 🔸 Co-author
 <br>
+<img align="left" width="360" src="/images/2026-TII-L" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+
+<div class="pub-block">
+  <span class="p-title">A Novel LiDAR-Inertial Integrated Implicit Localization Framework via Uncertainty-Aware Scene Coordinate Regression (Under Review)</span>
+  <span class="p-author">Hong Liu, Wang Gao, Shuguo Pan, Jinle Xu, Feixuan Huang, <span class="p-firstauthor">Zhuoxuan Wang</span>.</span>
+  <span class="p-journal"><i>IEEE Transactions on Industrial Informatics (<strong>Q1, IF=9.9</strong>)</i>, 2026. <br>
+  <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;">[Paper]</span>
+</div>
+<div style="clear:both;"></div>
+
+<hr class="hr-bold">
 <img align="left" width="360" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
@@ -241,9 +254,9 @@ _(Based on this guidance, I have configured two 🦐 workers on my **Feishu** ap
 Forked from <a href="https://github.com/RayeRen/acad-homepage.github.io" target="_blank">RayeRen's project</a>, added daily automated crawling, daily report generation, and the function of summarizing papers by specific authors.  
 
 # 🏃‍ Activities
-- **2026.06**: &nbsp; Attending the *IEEE International Conference on Robotics and Automation (ICRA) 2026* conference at Vienna, Austria.
-- **2025.10**: &nbsp; Attending the *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025* conference at Hangzhou, China.
-- **2024.11**: &nbsp; Attending the *Autonomous Robotic Technology Seminar (ARTS) 2024* conference at Shenzhen, China.
+- **2026.06**: &nbsp; Attending the *IEEE International Conference on Robotics and Automation (ICRA) 2026* at Vienna, Austria (Poster).
+- **2025.10**: &nbsp; Attending the *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025* at Hangzhou, China.
+- **2024.11**: &nbsp; Attending the *Autonomous Robotic Technology Seminar (ARTS) 2024* at Shenzhen, China.
 
 # ✒ Peer Review Services
 - Reviewer of *IEEE T-IE, IEEE RA-L*.
