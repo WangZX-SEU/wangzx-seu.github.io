@@ -107,8 +107,8 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
   <span class="p-title">SEKIRO: A Structure-Enhanced and Koopman-Integrated Deep Reinforcement Learning Framework for Robot Exploration</span>
   <span class="p-author"> <span class="p-firstauthor">Zhuoxuan Wang</span>, Yuxiang Gao, Shuguo Pan*, Jinle Xu, Aohua Liu, Hong Liu, Xianlu Tao.</span>
   <span class="p-journal"><i>IEEE Transactions on Industrial Informatics (<strong>Q1, IF=9.9</strong>)</i>, 2026.<br>
-  <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;">[Paper]</a> &nbsp;&nbsp;&nbsp;
-  <img align="absmiddle" width="16" src="/images/homepage.png" style="margin-right:4px;">[Project Page]</a></span>
+  <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;"> [Paper] &nbsp;&nbsp;&nbsp;
+  <img align="absmiddle" width="16" src="/images/homepage.png" style="margin-right:4px;"> [Project Page]</span>
 </div>
 <div style="clear:both;"></div>
 
