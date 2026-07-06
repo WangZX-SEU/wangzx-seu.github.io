@@ -81,7 +81,8 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 # 📰 News
 ## 2026
-- **2026.06.28**: Our latest work "PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments" has been acceped by *IEEE Robotics and Automation Letters (RAL)* 🎉🎉.
+- **2026.07.06**: Our latest work "SEKIRO: A Structure-Enhanced and Koopman-Integrated Deep Reinforcement Learning Framework for Robot Exploration" has been submmited to *IEEE Transactions on Industrial Informatics (TII)*.
+- **2026.06.28**: Our paper entitled "PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments" has been acceped by *IEEE Robotics and Automation Letters (RAL)* 🎉🎉.
 - **2026.05.28**: I have officially received funding from CSC and expect to start my visiting in **Sapienza University of Rome** in *2026.09* 🎉🎉.
 - **2026.05.10**: Our latest work "A Novel LiDAR-Inertial Integrated Implicit Localization Framework via Uncertainty-Aware Scene Coordinate Regression" has been submmited to *IEEE Transactions on Industrial Informatics (TII)*.
 - **2026.03.23**: The work co-authored with my collaborator **Aohua Liu** entitled "Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation" has been accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)* 🎉🎉.
@@ -130,7 +131,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 <div class="pub-block">
   <span class="p-title">TIPS: Tiered Information-Rich Planning Strategy for Efficient UGV Autonomous Exploration</span>
   <span class="p-author"><span class="p-firstauthor">Zhuoxuan Wang</span>, Shuguo Pan*, Jinle Xu, Xianlu Tao, Wang Gao and Qiang Wang.</span>
-  <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2025. <br>
+  <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2025 && <strong>IEEE ICRA 2026</strong>. <br>
   <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;"> <a href="https://ieeexplore.ieee.org/document/11214391">[Paper]</a> &nbsp;&nbsp;&nbsp;
   <img align="absmiddle" width="16" src="/images/homepage.png" style="margin-right:4px;"> <a href="https://github.com/WangZX-SEU/TIPS">[Project Page]</a></span>
 </div>
