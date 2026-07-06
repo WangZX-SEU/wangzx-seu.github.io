@@ -101,6 +101,19 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ## 🔹 Student First Author († indicates equal contribution)
 <br>
+<img align="left" width="360" src="/images/2026-TII.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+
+<div class="pub-block">
+  <span class="p-title">SEKIRO: A Structure-Enhanced and Koopman-Integrated Deep Reinforcement Learning Framework for Robot Exploration</span>
+  <span class="p-author"> <span class="p-firstauthor">Zhuoxuan Wang</span>, Yuxiang Gao, Shuguo Pan*, Jinle Xu, Aohua Liu, Hong Liu, Xianlu Tao.</span>
+  <span class="p-journal"><i>IEEE Transactions on Industrial Informatics (<strong>Q1, IF=9.9</strong>)</i>, 2026.<br>
+  <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;">[Paper]</a> &nbsp;&nbsp;&nbsp;
+  <img align="absmiddle" width="16" src="/images/homepage.png" style="margin-right:4px;">[Project Page]</a></span>
+</div>
+<div style="clear:both;"></div>
+
+<hr class="hr-bold">
+
 <img align="left" width="360" src="/images/2026-RAL.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
