@@ -81,7 +81,6 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 # 📰 News
 ## 2026
-IEEE Internet of Things Journal
 - **2026.07.07**: My latest co-authored work "C2GS-Loc: Confidence Guided Gaussian Splatting Map for Visual Localization" has been submmited to *IEEE Internet of Things Journal (IoTJ)*.
 - **2026.07.06**: My latest work "SEKIRO: A Structure-Enhanced and Koopman-Integrated Deep Reinforcement Learning Framework for Robot Exploration" has been submmited to *IEEE Transactions on Industrial Informatics (TII)*.
 - **2026.06.28**: My co-first author work entitled "PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments" has been acceped by *IEEE Robotics and Automation Letters (RAL)* 🎉🎉.
