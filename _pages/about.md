@@ -146,7 +146,7 @@ IEEE Internet of Things Journal
 <div class="pub-block">
   <span class="p-title">TIPS: Tiered Information-Rich Planning Strategy for Efficient UGV Autonomous Exploration</span>
   <span class="p-author"><span class="p-firstauthor">Zhuoxuan Wang</span>, Shuguo Pan*, Jinle Xu, Xianlu Tao, Wang Gao and Qiang Wang.</span>
-  <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2025 && <strong>IEEE ICRA 2026</strong>. <br>
+  <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2025 && <I>IEEE <strong>ICRA 2026</strong></I>. <br>
   <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;"> <a href="https://ieeexplore.ieee.org/document/11214391">[Paper]</a> &nbsp;&nbsp;&nbsp;
   <img align="absmiddle" width="16" src="/images/homepage.png" style="margin-right:4px;"> <a href="https://github.com/WangZX-SEU/TIPS">[Project Page]</a></span>
 </div>
