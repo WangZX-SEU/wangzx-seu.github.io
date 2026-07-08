@@ -81,14 +81,16 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 # 📰 News
 ## 2026
-- **2026.07.06**: Our latest work "SEKIRO: A Structure-Enhanced and Koopman-Integrated Deep Reinforcement Learning Framework for Robot Exploration" has been submmited to *IEEE Transactions on Industrial Informatics (TII)*.
-- **2026.06.28**: Our paper entitled "PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments" has been acceped by *IEEE Robotics and Automation Letters (RAL)* 🎉🎉.
+IEEE Internet of Things Journal
+- **2026.07.07**: My latest co-authored work "C2GS-Loc: Confidence Guided Gaussian Splatting Map for Visual Localization" has been submmited to *IEEE Internet of Things Journal (IoTJ)*.
+- **2026.07.06**: My latest work "SEKIRO: A Structure-Enhanced and Koopman-Integrated Deep Reinforcement Learning Framework for Robot Exploration" has been submmited to *IEEE Transactions on Industrial Informatics (TII)*.
+- **2026.06.28**: My co-first author work entitled "PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments" has been acceped by *IEEE Robotics and Automation Letters (RAL)* 🎉🎉.
 - **2026.05.28**: I have officially received funding from CSC and expect to start my visiting in **Sapienza University of Rome** in *2026.09* 🎉🎉.
-- **2026.05.10**: Our latest work "A Novel LiDAR-Inertial Integrated Implicit Localization Framework via Uncertainty-Aware Scene Coordinate Regression" has been submmited to *IEEE Transactions on Industrial Informatics (TII)*.
+- **2026.05.10**: My latest co-authored work "A Novel LiDAR-Inertial Integrated Implicit Localization Framework via Uncertainty-Aware Scene Coordinate Regression" has been submmited to *IEEE Transactions on Industrial Informatics (TII)*.
 - **2026.03.23**: The work co-authored with my collaborator **Aohua Liu** entitled "Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation" has been accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)* 🎉🎉.
-- **2026.02.01**: Our paper entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" published on *IEEE Robotics and Automation Letters (RAL)* has been transferred to and accpeted by *IEEE International Conference on Robotics and Automation (ICRA) 2026, Vienna* 🎉🎉.
-- **2026.01.19**: Our paper entitled "Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform" has been acceped by *Chinese Journal of Scientific Instrument* 🎉🎉.
-- **2026.01.04**: Our paper entitled "Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles" has been acceped by *IEEE Transactions on Industrial Electronics (TIE)* 🎉🎉.
+- **2026.02.01**: My work entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" published on *IEEE Robotics and Automation Letters (RAL)* has been transferred to and accpeted by *IEEE International Conference on Robotics and Automation (ICRA) 2026, Vienna* 🎉🎉.
+- **2026.01.19**: My co-authored work entitled "Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform" has been acceped by *Chinese Journal of Scientific Instrument* 🎉🎉.
+- **2026.01.04**: My work entitled "Data-driven Modeling with Deep Koopman Operator for Robust Path Tracking of Autonomous Vehicles" has been acceped by *IEEE Transactions on Industrial Electronics (TIE)* 🎉🎉.
 
 ## 2025
 - **2025.12.01**: I have received an invitation from **Sapienza University of Rome** for a one-year CSC visiting program (*2026.09 — 2027.10*).  
@@ -104,7 +106,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 <img align="left" width="360" src="/images/2026-TII.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
-  <span class="p-title">SEKIRO: A Structure-Enhanced and Koopman-Integrated Deep Reinforcement Learning Framework for Robot Exploration</span>
+  <span class="p-title">SEKIRO: A Structure-Enhanced and Koopman-Integrated Deep Reinforcement Learning Framework for Robot Exploration (Under Review)</span>
   <span class="p-author"> <span class="p-firstauthor">Zhuoxuan Wang</span>, Yuxiang Gao, Shuguo Pan*, Jinle Xu, Aohua Liu, Hong Liu, Xianlu Tao.</span>
   <span class="p-journal"><i>IEEE Transactions on Industrial Informatics (<strong>Q1, IF=9.9</strong>)</i>, 2026.<br>
   <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;"> [Paper] &nbsp;&nbsp;&nbsp;
@@ -118,7 +120,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 <div class="pub-block">
   <span class="p-title">PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review)</span>
-  <span class="p-author">Yuxiang Gao†, <span class="p-firstauthor">Zhuoxuan Wang†</span>, Xianlu Tao*, Jinle Xu, Shuguo Pan.</span>
+  <span class="p-author">Yuxiang Gao†, <span class="p-firstauthor">Zhuoxuan Wang†</span>, Xianlu Tao*, Jinle Xu, Shuguo Pan.</span>  
   <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2026. <br>
   <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;"> [Paper]</span>
 </div>
@@ -180,17 +182,30 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ## 🔸 Co-author
 <br>
+<img align="left" width="360" src="/images/2026-IoTJ.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+
+<div class="pub-block">
+  <span class="p-title">C2GS-Loc: Confidence Guided Gaussian Splatting Map for Visual Localization (Under Review)</span>
+  <span class="p-author">Jinle Xu, Wang Gao*, Min Wei, <span class="p-firstauthor">Zhuoxuan Wang</span>, Hong Liu, Shuguo Pan, Bernard De Baets.</span>
+  <span class="p-journal"><i>IEEE Internet of Things Journal (<strong>Q1, IF=8.7</strong>)</i>, 2026. <br>
+  <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;">[Paper]</span>
+</div>
+<div style="clear:both;"></div>
+
+<hr class="hr-bold">
+
 <img align="left" width="360" src="/images/2026-TII-L.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title">A Novel LiDAR-Inertial Integrated Implicit Localization Framework via Uncertainty-Aware Scene Coordinate Regression (Under Review)</span>
-  <span class="p-author">Hong Liu, Wang Gao, Shuguo Pan, Jinle Xu, Feixuan Huang, <span class="p-firstauthor">Zhuoxuan Wang</span>.</span>
+  <span class="p-author">Hong Liu, Wang Gao*, Shuguo Pan, Jinle Xu, Feixuan Huang, <span class="p-firstauthor">Zhuoxuan Wang</span>.</span>
   <span class="p-journal"><i>IEEE Transactions on Industrial Informatics (<strong>Q1, IF=9.9</strong>)</i>, 2026. <br>
   <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;">[Paper]</span>
 </div>
 <div style="clear:both;"></div>
 
 <hr class="hr-bold">
+
 <img align="left" width="360" src="/images/2026-TMECH.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
