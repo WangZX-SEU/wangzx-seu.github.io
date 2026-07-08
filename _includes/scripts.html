@@ -1,61 +1,35 @@
 <script src="assets/js/main.min.js"></script>
 
-  {% include analytics.html %}
-  {% include fetch_google_scholar_stats.html %}
+{% include analytics.html %}
+{% include fetch_google_scholar_stats.html %}
 
-  <div style="
-  width: 100%;
-  background:#e9e9e9;
-  padding:12px 0;
-  margin-top:30px;
-  border-radius:8px 8px 0 0;
-  margin-bottom:0px;
-  ">
+<div style="
+width: 100%;
+background:#e9e9e9;
+padding:12px 0;
+margin-top:30px;
+border-radius:8px 8px 0 0;
+margin-bottom:0px;
+">
 
-  <div style="
-  text-align:center;
-  margin:0 auto;
-  ">
-  <!-- FeedPulse 访客追踪（轻量，不可见） -->
-  <script>
-  (function() {
-    var sid = 'b4a70c95-7b53-4412-93a1-ff927be7108d';
-    var k = '_fp_ignore_' + sid;
-    try { if (localStorage.getItem(k) === '1') return; } catch(e) {}
-    var data = {
-      referrer: document.referrer || 'direct',
-      landing_page: location.pathname || '/',
-      title: document.title || '',
-      host: location.host,
-      session_id: (function() {
-        var s = '_fp_sid_' + sid;
-        var v = sessionStorage.getItem(s);
-        if (!v) { v = Math.random().toString(36).slice(2, 14);
-  sessionStorage.setItem(s, v); }
-        return v;
-      })()
-    };
-    navigator.sendBeacon &&
-  navigator.sendBeacon('https://feed-pulse.com/api/track/' + sid,
-      new Blob([JSON.stringify(data)], {type: 'application/json'}));
-  })();
-  </script>
+<div style="
+text-align:center;
+margin:0 auto;
+">
+<!-- FeedPulse 实时访客追踪 -->
+<script src="https://feed-pulse.com/api/embed/traffic-feed.js?site_id=b4a70c95-7b53-4412-93a1-ff927be7108d" async></script>
+</div>
+</div>
 
-  <!-- FeedPulse Visitor Globe - 平面访客地图 -->
-  <script src="https://feed-pulse.com/api/embed/visitor-globe.js?site_id=b4a70c95-7b53-4412-93a1-ff927be7108d&amp;w=360&amp;h=360&amp;theme=sky&amp;map=globe" 
-  async></script>
-  </div>
-  </div>
-
-  <div style="
-  width:100%;
-  background:#c1c1c1;
-  padding:12px 0;
-  text-align:center;
-  font-size:18px;
-  color:#222;
-  margin:0;
-  border-radius:0 0 8px 8px;
-  ">
-  Copyright © Zhuoxuan Wang 2026
-  </div>
+<div style="
+width:100%;
+background:#c1c1c1;
+padding:12px 0;
+text-align:center;
+font-size:18px;
+color:#222;
+margin:0;
+border-radius:0 0 8px 8px;
+">
+Copyright © Zhuoxuan Wang 2026
+</div>
