@@ -294,3 +294,6 @@ Forked from <a href="https://github.com/RayeRen/acad-homepage.github.io" target=
 
 # 🤝 Collaborators
 - [Aohua Liu](https://orcid.org/0000-0002-2526-5879), Ph.D. candidate in the School of Automation, Southeast University, Nanjing, China.
+- [Yuxiang Gao](https://orcid.org/0009-0004-5465-949X), Master student in the School of Instrument Science and Engineering, Southeast University, Nanjing, China.
+- [Jinle Xu](https://orcid.org/0009-0007-5085-4791), Ph.D. candidate in the School of Instrument Science and Engineering, Southeast University, Nanjing, China.
+- [Hong Liu](https://orcid.org/0000-0003-4211-2337), Ph.D. candidate in the School of Instrument Science and Engineering, Southeast University, Nanjing, China.
