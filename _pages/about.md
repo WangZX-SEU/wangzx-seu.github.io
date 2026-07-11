@@ -81,7 +81,6 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 # 📰 News
 ## 2026
-- **2026.07.07**: My latest co-authored work "C2GS-Loc: Confidence Guided Gaussian Splatting Map for Visual Localization" has been submmited to *IEEE Internet of Things Journal (IoTJ)*.
 - **2026.07.06**: My latest work "SEKIRO: A Structure-Enhanced and Koopman-Integrated Deep Reinforcement Learning Framework for Robot Exploration" has been submmited to *IEEE Transactions on Industrial Informatics (TII)*.
 - **2026.06.28**: My co-first author work entitled "PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments" has been acceped by *IEEE Robotics and Automation Letters (RAL)* 🎉🎉.
 - **2026.05.28**: I have officially received funding from CSC and expect to start my visiting in **Sapienza University of Rome** in *2026.09* 🎉🎉.
@@ -185,7 +184,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ## 🔸 Co-author
 <br>
-<img align="left" width="360" src="/images/2026-IoTJ.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+<!-- <img align="left" width="360" src="/images/2026-IoTJ.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
   <span class="p-title">C2GS-Loc: Confidence Guided Gaussian Splatting Map for Visual Localization (Under Review)</span>
@@ -195,7 +194,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 </div>
 <div style="clear:both;"></div>
 
-<hr class="hr-bold">
+<hr class="hr-bold"> -->
 
 <img align="left" width="360" src="/images/2026-TII-L.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
