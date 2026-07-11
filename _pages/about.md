@@ -118,7 +118,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 <img align="left" width="360" src="/images/2026-RAL.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
-  <span class="p-title">PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments. (Under Review)</span>
+  <span class="p-title">PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments.</span>
   <span class="p-author">Yuxiang Gao†, <span class="p-firstauthor">Zhuoxuan Wang†</span>, Xianlu Tao*, Jinle Xu, Shuguo Pan.</span>  
   <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2026. <br>
   <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;"> <a href="https://ieeexplore.ieee.org/document/11600998">[Paper]</a> &nbsp;&nbsp;&nbsp;
