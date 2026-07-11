@@ -109,7 +109,8 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
   <span class="p-author"> <span class="p-firstauthor">Zhuoxuan Wang</span>, Yuxiang Gao, Shuguo Pan*, Jinle Xu, Aohua Liu, Hong Liu, Xianlu Tao.</span>
   <span class="p-journal"><i>IEEE Transactions on Industrial Informatics (<strong>Q1, IF=9.9</strong>)</i>, 2026.<br>
   <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;"> [Paper] &nbsp;&nbsp;&nbsp;
-  <img align="absmiddle" width="16" src="/images/homepage.png" style="margin-right:4px;"> [Project Page]</span>
+  <img align="absmiddle" width="16" src="/images/homepage.png" style="margin-right:4px;"> [Project Page]</a> &nbsp;&nbsp;&nbsp;
+  <img align="absmiddle" width="16" src="/images/video.png" style="margin-right:4px;"> <a href="https://www.youtube.com/watch?v=AKWq4K_Xppc">[Video]</a></span>
 </div>
 <div style="clear:both;"></div>
 
@@ -122,7 +123,8 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
   <span class="p-author">Yuxiang Gao†, <span class="p-firstauthor">Zhuoxuan Wang†</span>, Xianlu Tao*, Jinle Xu, Shuguo Pan.</span>  
   <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2026. <br>
   <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;"> <a href="https://ieeexplore.ieee.org/document/11600998">[Paper]</a> &nbsp;&nbsp;&nbsp;
-  <img align="absmiddle" width="16" src="/images/homepage.png" style="margin-right:4px;"> <a href="https://github.com/gaoyuxiang-seu/PACE">[Project Page]</a></span>
+  <img align="absmiddle" width="16" src="/images/homepage.png" style="margin-right:4px;"> <a href="https://github.com/gaoyuxiang-seu/PACE">[Project Page]</a> &nbsp;&nbsp;&nbsp;
+  <img align="absmiddle" width="16" src="/images/video.png" style="margin-right:4px;"> <a href="https://github.com/gaoyuxiang-seu/PACE">[Video]</a></span>
 </div>
 <div style="clear:both;"></div>
 
@@ -135,7 +137,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
   <span class="p-author"> <span class="p-firstauthor">Zhuoxuan Wang</span>, Shuguo Pan*, Kegen Yu, Wang Gao and Zongliang Chen.</span>
   <span class="p-journal"><i>IEEE Transactions on Industrial Electronics (<strong>Q1, IF=7.2</strong>)</i>, 2026. <br>
   <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;"> <a href="https://ieeexplore.ieee.org/document/11373019">[Paper]</a> &nbsp;&nbsp;&nbsp;
-  <img align="absmiddle" width="16" src="/images/homepage.png" style="margin-right:4px;"> <a href="https://github.com/WangZX-SEU/SST-Rev-DKN">[Project Page]</a></span>
+  <img align="absmiddle" width="16" src="/images/homepage.png" style="margin-right:4px;"> <a href="https://www.youtube.com/watch?v=LaNS0w90B1s">[Project Page]</a></span>
 </div>
 <div style="clear:both;"></div>
 
@@ -148,7 +150,8 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
   <span class="p-author"><span class="p-firstauthor">Zhuoxuan Wang</span>, Shuguo Pan*, Jinle Xu, Xianlu Tao, Wang Gao and Qiang Wang.</span>
   <span class="p-journal"><i>IEEE Robotics and Automation Letters (<strong>Q1, IF=5.3</strong>)</i>, 2025 && <I>IEEE <strong>ICRA 2026</strong></I>. <br>
   <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;"> <a href="https://ieeexplore.ieee.org/document/11214391">[Paper]</a> &nbsp;&nbsp;&nbsp;
-  <img align="absmiddle" width="16" src="/images/homepage.png" style="margin-right:4px;"> <a href="https://github.com/WangZX-SEU/TIPS">[Project Page]</a></span>
+  <img align="absmiddle" width="16" src="/images/homepage.png" style="margin-right:4px;"> <a href="https://github.com/WangZX-SEU/TIPS">[Project Page]</a> &nbsp;&nbsp;&nbsp;
+  <img align="absmiddle" width="16" src="/images/video.png" style="margin-right:4px;"> <a href="https://www.youtube.com/watch?v=0_vi6ks_7sw">[Video]</a></span>
 </div>
 <div style="clear:both;"></div>
 
