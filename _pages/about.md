@@ -81,6 +81,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 # 📰 News
 ## 2026
+- **2026.07.19**: My latest co-authored work "AnyLGL: Query-Sensor-Agnostic Frame-to-Map LiDAR Global Localization via Virtual Map Observations" has been submmited to *IEEE Transactions on Robotics (TRO)*.
 - **2026.07.14**: My latest co-authored work "C2GS-Loc: Confidence Guided Gaussian Splatting Map for Visual Localization" has been submmited to *IEEE Transactions on Automation Science and Engineering (TASE)*.
 - **2026.07.06**: My latest work "SEKIRO: A Structure-Enhanced and Koopman-Integrated Deep Reinforcement Learning Framework for Robot Exploration" has been submmited to *IEEE Transactions on Industrial Informatics (TII)*.
 - **2026.06.28**: My co-first author work entitled "PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments" has been acceped by *IEEE Robotics and Automation Letters (RAL)* 🎉🎉.
@@ -185,6 +186,18 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 
 ## 🔸 Co-author
 <br>
+<img align="left" width="360" src="/images/TRO-2026.jpg" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
+
+<div class="pub-block">
+  <span class="p-title">AnyLGL: Query-Sensor-Agnostic Frame-to-Map LiDAR Global Localization via Virtual Map Observations (Under Review)</span>
+  <span class="p-author">Huang, Feixuan, Gao, Wang*, Huang Jiangyue, Liu Hong, <span class="p-firstauthor">Zhuoxuan Wang</span>, Xu Jinle, Pan Shuguo, Tao Xianlu.</span>
+  <span class="p-journal"><i>IEEE Transactions on Robotics (<strong>Q1, IF=11.1</strong>)</i>, 2026. <br>
+  <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;">[Paper]</span>
+</div>
+<div style="clear:both;"></div>
+
+<hr class="hr-bold">
+
 <img align="left" width="360" src="/images/2026-IoTJ.png" style="margin-right:15px; margin-top:5px; object-fit:cover; border-radius:4px;">
 
 <div class="pub-block">
