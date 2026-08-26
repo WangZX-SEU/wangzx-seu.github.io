@@ -85,7 +85,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 - **2026.07.06**: My latest work "SEKIRO: A Structure-Enhanced and Koopman-Integrated Deep Reinforcement Learning Framework for Robot Exploration" has been submmited to *IEEE Transactions on Industrial Informatics (TII)*.
 - **2026.06.28**: My co-first author work entitled "PACE: Passability and Memory Integrated Exploration for UAVs in Large-scale and Cluttered Environments" has been acceped by *IEEE Robotics and Automation Letters (RAL)* 🎉🎉.
 - **2026.05.28**: I have officially received funding from CSC and expect to start my visiting in **Sapienza University of Rome** in *2026.09* 🎉🎉.
-- **2026.05.10**: My latest co-authored work "A Novel LiDAR-Inertial Integrated Implicit Localization Framework via Uncertainty-Aware Scene Coordinate Regression" has been submmited to *IEEE Transactions on Industrial Informatics (TII)*.
+- **2026.05.10**: My latest co-authored work "A Novel LiDAR-Inertial Integrated Implicit Localization Framework via Uncertainty-Aware Scene Coordinate Regression" has been submmited to *IEEE Transactions on Vehicular Technology (TVT)*.
 - **2026.03.23**: The work co-authored with my collaborator **Aohua Liu** entitled "Learning Physics-Aware Sensorimotor Model with Visual-Tactile Sensing for Deformable Linear Object Manipulation" has been accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)* 🎉🎉.
 - **2026.02.01**: My work entitled "TIPS: Tiered Information-Rich Planning Strategy for Efficient AGV Autonomous Exploration" published on *IEEE Robotics and Automation Letters (RAL)* has been transferred to and accpeted by *IEEE International Conference on Robotics and Automation (ICRA) 2026, Vienna* 🎉🎉.
 - **2026.01.19**: My co-authored work entitled "Hierarchical active path-planning based on edge-and-corner region guidance for unmanned platform" has been acceped by *Chinese Journal of Scientific Instrument* 🎉🎉.
@@ -202,7 +202,7 @@ I am also exploring the ways to work with **AI agents**, which is very interesti
 <div class="pub-block">
   <span class="p-title">A Novel LiDAR-Inertial Integrated Implicit Localization Framework via Uncertainty-Aware Scene Coordinate Regression (Under Review)</span>
   <span class="p-author">Hong Liu, Wang Gao*, Shuguo Pan, Jinle Xu, Feixuan Huang, <span class="p-firstauthor">Zhuoxuan Wang</span>.</span>
-  <span class="p-journal"><i>IEEE Transactions on Industrial Informatics (<strong>Q1, IF=9.9</strong>)</i>, 2026. <br>
+  <span class="p-journal"><i>IEEE Transactions on Vehicular Technology (<strong>Q1, IF=7.5</strong>)</i>, 2026. <br>
   <img align="absmiddle" width="16" src="/images/pdf.png" style="margin-right:4px;">[Paper]</span>
 </div>
 <div style="clear:both;"></div>
